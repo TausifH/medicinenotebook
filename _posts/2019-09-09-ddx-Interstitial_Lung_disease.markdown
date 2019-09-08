@@ -7,6 +7,7 @@ permalink: /ddx-interstitial_lung_disease
 tags: [ Differential Diagnosis ]
 ---
 
+# What is Pulmonary fibrosis? 
 Pulmonary fibrosis = Interstitial lung disease —> abnormal and excessive deposition of fibres in lung parenchyma —> abnormal gas transfer
 
 ---
