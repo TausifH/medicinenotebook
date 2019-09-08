@@ -4,6 +4,7 @@ title:  "Differential diagnosis: Interstitial Lung Disease"
 description: "Differential diagnosis of interstitial lung disease, pulmonary fibrosis"
 categories: [ Respiratory ] 
 permalink: /ddx-interstitial_lung_disease
+tags: [ Differential Diagnosis ]
 ---
 
 # Differential diagnosis: Interstitial Lung Disease
@@ -24,5 +25,5 @@ Pulmonary fibrosis = Interstitial lung disease —> abnormal and excessive depos
 - Silicosis
 - Extrinsic Allergic Alveolitis
 - Radiation
-- Drugs: Bleomycin, Nitrofurantoi and Amiodarone
+- Drugs: Bleomycin, Nitrofurantoin and Amiodarone
 
