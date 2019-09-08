@@ -11,6 +11,7 @@ tags: [ Differential Diagnosis ]
 Pulmonary fibrosis = Interstitial lung disease —> abnormal and excessive deposition of fibres in lung parenchyma —> abnormal gas transfer
 
 ---
+# Differential Diagnosis 
 - **Idiopathic Pulmonary Fibrosis** (IPF, previously known as Cryptogenic Fibrosing Alveolitis)
 - **Connective tissue disease**
     - Rheumatoid lung disease
