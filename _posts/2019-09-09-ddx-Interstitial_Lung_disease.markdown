@@ -7,10 +7,9 @@ permalink: /ddx-interstitial_lung_disease
 tags: [ Differential Diagnosis ]
 ---
 
-# Differential diagnosis: Interstitial Lung Disease
-
 Pulmonary fibrosis = Interstitial lung disease —> abnormal and excessive deposition of fibres in lung parenchyma —> abnormal gas transfer
 
+---
 - **Idiopathic Pulmonary Fibrosis** (IPF, previously known as Cryptogenic Fibrosing Alveolitis)
 - **Connective tissue disease**
     - Rheumatoid lung disease
@@ -27,3 +26,4 @@ Pulmonary fibrosis = Interstitial lung disease —> abnormal and excessive depos
 - Radiation
 - Drugs: Bleomycin, Nitrofurantoin and Amiodarone
 
+---
