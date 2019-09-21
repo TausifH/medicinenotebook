@@ -4575,9 +4575,9 @@ button.close {
   height: 50px;
   overflow: scroll; }
 
-@media (min-width: 576px) {
+@media (min-width: 900px) {
   .modal-dialog {
-    max-width: 900px;
+    max-width: 500px;
     margin: 1.75rem auto; }
   .modal-dialog-centered {
     min-height: calc(100% - (1.75rem * 2)); }
