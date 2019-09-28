@@ -7,7 +7,6 @@ categories: [ Urology ]
 tags: [Differential diagnosis]
 ---
 
-# Scrotal pain- Differential diagnosis 
 
 Note: Pain in the scrotum could also include pain in the testes. 
 
