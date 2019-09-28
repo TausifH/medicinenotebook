@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/hellomedicine/sitemap.xml
+Sitemap: http://localhost:4000/medicinenotebook/sitemap.xml
