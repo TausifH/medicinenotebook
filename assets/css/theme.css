@@ -760,12 +760,16 @@ article h1,article h2,article h3,article h4,article h5,article h6,article .h1,ar
 }
 @media (max-width:1199.98px) {
 	.display-4 {
-		font-size:35px;
+		font-size: 50px;
+		font-family: "Georgia","Times New Roman",serif;
+		font-weight: bolder;
 	}
 }
 @media (max-width:991.98px) {
 	.display-4 {
-		font-size:25px;
+		font-size: 35px;
+		font-family: "Georgia","Times New Roman",serif;
+		font-weight: bolder;
 	}
 	.alertbar {
 		display: none !important;
