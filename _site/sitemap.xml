@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/medicinenotebook/cardiology/2019/01/18/charm-old-cities.html</loc>
-<lastmod>2019-01-18T00:00:00+00:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/medicinenotebook/gastroenterology/2019/01/18/customer-service.html</loc>
-<lastmod>2019-01-18T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/medicinenotebook/neurology/2019/01/19/markup-example.html</loc>
 <lastmod>2019-01-19T00:00:00+00:00</lastmod>
 </url>
@@ -79,6 +71,14 @@
 <url>
 <loc>http://localhost:4000/medicinenotebook/ddx-interstitial_lung_disease</loc>
 <lastmod>2019-09-09T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html</loc>
+<lastmod>2019-09-28T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-Testicular-Torsion.html</loc>
+<lastmod>2019-09-28T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/medicinenotebook/about.html</loc>
