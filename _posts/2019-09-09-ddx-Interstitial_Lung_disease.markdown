@@ -23,7 +23,7 @@ Pulmonary fibrosis = Interstitial lung disease —> abnormal and excessive depos
 - Ankolysing spondylitis
 - Sarcoidosis
 - Asbestosis
-- Silicosis
+- <span style="color: green; font-weight: bold;">Silicosis</span>
 - Extrinsic Allergic Alveolitis
 - Radiation
 - Drugs: Bleomycin, Nitrofurantoin and Amiodarone
