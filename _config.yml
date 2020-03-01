@@ -1,6 +1,6 @@
 # Site
 name: 'MedicineNotebook.'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
