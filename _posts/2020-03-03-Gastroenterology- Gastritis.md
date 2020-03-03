@@ -37,7 +37,7 @@ Symptoms are fairly non-specific so diagnosis is mostly based on risk factors ab
 - H. Pylori breath test to rule out H. Pylori
 - Upper GI endoscopy only if suspicious features
     - Dysphagia or;
-    - >55 years old with persistent symptoms or;
+    - Over 55 years old with persistent symptoms or;
     - ALARM signs: Anaemia (iron deficiency), Loss of weight, Anorexia, Recent onset/ progressive symptoms, Malaena/ Haematemesis
 
 # Treatment
