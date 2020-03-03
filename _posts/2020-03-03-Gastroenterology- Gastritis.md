@@ -6,11 +6,9 @@ author: Tausif
 categories: [ Gastroenterology ]
 ---
 # Introduction
-
 Inflammation of the lining of the stomach
 
 # Risk Factors
-
 - *Halicobacter Pylori* infection
 - Alcohol
 - Drug induced
@@ -25,7 +23,6 @@ Inflammation of the lining of the stomach
     - Ménétrier’s disease
 
 # Symptoms
-
 Symptoms are fairly non-specific so diagnosis is mostly based on risk factors above
 
 - Dyspepsia
@@ -33,7 +30,6 @@ Symptoms are fairly non-specific so diagnosis is mostly based on risk factors ab
 - Vomiting
 
 # Investigations
-
 - H. Pylori breath test to rule out H. Pylori
 - Upper GI endoscopy only if suspicious features
     - Dysphagia or;
@@ -41,7 +37,6 @@ Symptoms are fairly non-specific so diagnosis is mostly based on risk factors ab
     - ALARM signs: Anaemia (iron deficiency), Loss of weight, Anorexia, Recent onset/ progressive symptoms, Malaena/ Haematemesis
 
 # Treatment
-
 - **Lifestyle:**
     - ↓Alcohol and tobacco
 - H. **pylori eradication** (as above):
