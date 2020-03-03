@@ -12,7 +12,7 @@ Many drugs can either induce or inhibit P450 family of enzymes.
 
 When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.
 
-![assests/images/P450_inducer_inhibitor.png](P450 enzyme inducer and inbitor)
+![walking]({{site.baseurl}}/assets/images/P450_inducer_inhibitor.png)
 
 # P450 inducers
 Dugs which are metabolised by P450 will be reduced in bioavailability
