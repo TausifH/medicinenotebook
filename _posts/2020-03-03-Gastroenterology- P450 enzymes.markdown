@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cytochrome P450 enzymes!"
+title:  "Cytochrome P450 enzymes"
 description: Cytochrome P450 enzymes,  P450 enzyme inducers and inhibitors, warfarin and  P450 enzymes
 categories: [ Gastroenterology ] 
 
@@ -12,7 +12,7 @@ Many drugs can either induce or inhibit P450 family of enzymes.
 
 When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91f56922-ad77-4186-8796-69375fc8f0a0/P450_inducer_inhibitor.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91f56922-ad77-4186-8796-69375fc8f0a0/P450_inducer_inhibitor.png)
+![assests/images/P450_inducer_inhibitor.png](P450 enzyme inducer and inbitor)
 
 # P450 inducers
 Dugs which are metabolised by P450 will be reduced in bioavailability
