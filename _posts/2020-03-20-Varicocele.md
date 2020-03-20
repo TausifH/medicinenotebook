@@ -8,7 +8,7 @@ categories: [ Urology ]
 - Left side (90%)> Right side (10%) 
 - Bilateral varicoceles may affect fertility
 
-# Aetiology
+# <span style="color:green"> Aetiology </span>
 - Mostly <span style="color:green"> **idiopathic** </span>
 - <span style="color:green"> **Left-sided renal tumour** </span> (which may invade the left renal vein and prevent drainage of blood)
 
