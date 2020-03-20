@@ -19,7 +19,7 @@ Bilateral varicoceles may affect fertility
 - May be presenting with features of renal cell carcinoma
 
 # Examination
-- <span style="color= red">**Worm-like**</span>venous dilatation
+- <span style="color=red"> **Worm-like** </span>venous dilatation
 - Does not transilluminate (important to distinguish it from Hydrocele)
 - Small testicle on the affected side (due to testicular growth arrest)
 
