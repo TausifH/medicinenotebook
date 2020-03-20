@@ -4,19 +4,19 @@ title:  "Varicocele"
 description: "Varicocele, aetiology of varicocele, history of varicocele, examintaion for varicocele, Investigation for varicocele, management of varicocele"
 categories: [ Urology ]
 ---
-A varicocele is the abnormal dilation  pampiniform plexus and the internal spermatic vein that drain blood from the testis. 
-Left side (90%)> Right side (10%) 
-Bilateral varicoceles may affect fertility
+- A varicocele is the abnormal dilation  pampiniform plexus and the internal spermatic vein that drain blood from the testis. 
+- Left side (90%)> Right side (10%) 
+- Bilateral varicoceles may affect fertility
 
 # Aetiology
-- Mostly idiopathic
-- Left sided renal tumour (which may invade the left renal vein and prevent drainage of blood)
+- Mostly <span style="color:green"> **idiopathic** </span>
+- <span style="color:green"> **Left-sided renal tumour** </span> (which may invade the left renal vein and prevent drainage of blood)
 
 # History
-- Painless scrotal mass
+- <span style="color:blue"> **Painless** </span> scrotal mass
 - Scrotum feels heavy
-- Look for family history of varicocele (especially brothers)
-- May be presenting with features of renal cell carcinoma
+- Family history of varicocele (especially brothers)
+- In some, features of renal cell carcinoma
 
 # Examination
 - <span style="color:red"> **Worm-like** </span>venous dilatation
