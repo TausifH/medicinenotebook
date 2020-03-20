@@ -24,7 +24,7 @@ Bilateral varicoceles may affect fertility
 - Small testicle on the affected side (due to testicular growth arrest)
 
 # Investigations
-- Usually by c<span style="font-color:orange"> **clinical features** </span>
+- Usually by <span style="font-color:orange"> **clinical features** </span>
 - USS if uncertain or difficult examination
 - Semen analysis and serum testosterone- men with subfertility and varicocele
 
