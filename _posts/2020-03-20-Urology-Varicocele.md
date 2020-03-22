@@ -8,7 +8,7 @@ categories: [ Urology ]
 - Left side (90%)> Right side (10%) 
 - Bilateral varicoceles may affect fertility
 
-# <span style="color:green"> Aetiology </span>
+# Aetiology
 - Mostly <span style="color:green"> **idiopathic** </span>
 - <span style="color:green"> **Left-sided renal tumour** </span> (which may invade the left renal vein and prevent drainage of blood)
 
@@ -38,4 +38,3 @@ categories: [ Urology ]
     - Surgery if symptomatic, or atrophic testes or, subfertility
         - Varicocelectomy, surgical ligation/embolisation of the affected vein
 
-<p><iframe style="width:100%;" height="315" src="https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe></p>
