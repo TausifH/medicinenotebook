@@ -4,7 +4,7 @@ title:  "Scrotal pain- Differential diagnosis"
 description: differential diagnosis of testicular and scrotal pain
 author: jane
 categories: [ Urology ]
-tags: [Differential diagnosis]
+tags: [ Differential Diagnosis ]
 ---
 
 
