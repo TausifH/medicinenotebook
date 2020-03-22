@@ -1,7 +1,7 @@
 ---
 title: "Categories"
 layout: default
-permalink: "/categories_cardiology.html"
+permalink: "/categories_urology.html"
 ---
 
 <div class="container">
@@ -9,21 +9,12 @@ permalink: "/categories_cardiology.html"
         <div class="col-md-10">
         <h1 class="font-weight-bold title h6 text-uppercase mb-4">Categories</h1>
             
-        {% for category in site.cardiology %} 
-        <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
-            
-        {% assign pages_list = category[1] %}
-        {% for post in pages_list %}
-        {% if post.title != null %}
-          {% if group == null or group == post.group %}
-         
-            {% include main-loop-card.html %}
-          {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
+        {% assign category = page.title|downcase %}
 
+        {% for post in site.posts %}
+        {% if post.categories contains {{category}}  %}
+        <li>{{ post.title }}</li>
+        {% endif %}
         {% endfor %}
 
         </div>
