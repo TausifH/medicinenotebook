@@ -8,7 +8,7 @@ tags: [ Differential Diagnosis ]
 ---
 
 
-Note: Pain in the scrotum could also include pain in the testes. 
+> REMEMBER: Pain in the scrotum could also include pain in the testes. 
 
 - Testicular torsion
 - Epididymo-orchitis
