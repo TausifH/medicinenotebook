@@ -36,15 +36,11 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
   <h3 class="font-weight-bold spanborder"><span>Medicine</span></h3>
 
   <ul>
-    {% for cat in site.categories %}
+    {% for cat in site.categories.urology %}
         <li>{{ cat[0] }} ({{ cat[1].size }})</li>
     {% endfor %}
     </ul>
     
-    {% for post in site.categories %}
-    {% capture post_count %} {{ post_count | plus: 1 }} {% endcapture %}
- {% endfor %}
- {{ post_count }}
 
   <h2 class="mb-1 h4 font-weight-bold">
       <a class="text-dark" href="{{ site.baseurl }}/categories.html#urology"> Cardiovascular Medicine</a>
