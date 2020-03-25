@@ -14,7 +14,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
         <div class="col-xs-12 col-sm-12 col-md-7">     
           <h1 class="display-4">Medicine Notebook</h1>
             <p class="lead">Intended for those moments when it is too much work or too create notes for yourself</p>
-        </div>    
+            <form class="bd-search hidden-sm-down" onsubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+              <input type="text" class="form-control text-small" id="lunrsearch" name="q" value="" placeholder="Type keyword and enter..."> 
+              </form>
+          </div>    
         <div class="col-xs-12 col-sm-12 col-md-5">
                   <figure style="display: block;">
                       <img alt="" src="/assets/images/herophoto.png">
