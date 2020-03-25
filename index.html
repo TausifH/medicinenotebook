@@ -37,7 +37,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 
   <ul>
     {% for cat in site.categories %}
-        <li>{{ Urology }} ({{ cat[1].size }})</li>
+        <li>{{ cat[0]=='Urology' }} ({{ cat[1].size }})</li>
     {% endfor %}
     </ul>
     
