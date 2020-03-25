@@ -48,7 +48,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-talk]: https://talk.jekyllrb.com/
 
 # Management 
-<div class="bs-callout bs-callout-info">
+<div class="alert-primary">
   <p>This is a note callout. You can use these to provide important information on a topic.</p>
   <p>You must follow a <a href="http://www.php-fig.org/psr/psr-4/">PSR-4 compliant</a> structure when building a module.</p>
 </div>
