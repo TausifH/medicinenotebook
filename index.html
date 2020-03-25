@@ -41,6 +41,14 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     {% endfor %}
     </ul>
     
+
+
+    {% for category in page.categories %}
+{% unless category == 'index'%}
+<a href="/cat/{{category}}">{{category}}{{site.categories[category].size}}</a>
+{% endunless %}
+{% endfor %}
+
   <h2 class="mb-1 h4 font-weight-bold">
       <a class="text-dark" href="{{ site.baseurl }}/categories.html#urology"> Cardiovascular Medicine</a>
     </h2>
