@@ -41,7 +41,10 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
     {% endfor %}
     </ul>
     
-
+    {% for post in site.categories %}
+    {% capture post_count %} {{ post_count | plus: 1 }} {% endcapture %}
+ {% endfor %}
+ {{ post_count }}
 
   <h2 class="mb-1 h4 font-weight-bold">
       <a class="text-dark" href="{{ site.baseurl }}/categories.html#urology"> Cardiovascular Medicine</a>
