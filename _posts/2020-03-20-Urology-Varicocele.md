@@ -1,5 +1,6 @@
 ---
 layout: post
+search_exclude: true 
 title:  "Varicocele"
 description: "Varicocele, aetiology of varicocele, history of varicocele, examintaion for varicocele, Investigation for varicocele, management of varicocele"
 categories: [ Urology ]
