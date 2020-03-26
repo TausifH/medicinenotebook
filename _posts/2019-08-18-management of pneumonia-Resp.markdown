@@ -1,6 +1,5 @@
 ---
 layout: post
-search_exclude: true
 title:  "Pneumonia"
 description: "Pneumonia, management of pneumonia, signs and symptoms of pneumonia "
 categories: [ Respiratory ] 

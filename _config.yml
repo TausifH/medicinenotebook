@@ -11,9 +11,6 @@ mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a
 include: ["_pages"]
 permalink:
 
-# Search 
-search_enabled: true 
-  
 # Plugins
 plugins: 
   - jekyll-feed
