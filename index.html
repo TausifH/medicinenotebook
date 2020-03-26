@@ -85,6 +85,22 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
       {% endfor %}
     </ul>
 
+
+    {% for category in site.categories.urology %} 
+    <h4 class="font-weight-bold spanborder text-capitalize" id="{{ category[0] | downcase }}"><span>{{ category[0] }}</span></h4>
+        
+    {% assign pages_list = category[1] %}
+    {% for post in pages_list %}
+    {% if post.title != null %}
+      {% if group == null or group == post.group %}
+      {% include main-loop-card.html %}
+          {% endif %}
+        {% endif %}
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
+
+        {% endfor %}
                           
   <h3 style="margin-top:4rem !important">Surgery</h3><hr>
 
