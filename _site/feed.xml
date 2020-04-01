@@ -1,4 +1,181 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/medicinenotebook/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/medicinenotebook/" rel="alternate" type="text/html" /><updated>2020-02-28T21:28:59+00:00</updated><id>http://localhost:4000/medicinenotebook/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>Mundana is a free Jekyll theme for awesome people like you, Medium like.</subtitle><entry><title type="html">Testicular Torsion</title><link href="http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-Testicular-Torsion.html" rel="alternate" type="text/html" title="Testicular Torsion" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-%20Testicular%20Torsion</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-Testicular-Torsion.html">&lt;p&gt;An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T04:56:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Varicocele</title><link href="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html" rel="alternate" type="text/html" title="Varicocele" /><published>2020-03-20T00:00:00+00:00</published><updated>2020-03-20T00:00:00+00:00</updated><id>http://localhost:4000/urology/2020/03/20/Urology-Varicocele</id><content type="html" xml:base="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html">&lt;ul&gt;
+  &lt;li&gt;A varicocele is the abnormal dilation  pampiniform plexus and the internal spermatic vein that drain blood from the testis.&lt;/li&gt;
+  &lt;li&gt;Left side (90%)&amp;gt; Right side (10%)&lt;/li&gt;
+  &lt;li&gt;Bilateral varicoceles may affect fertility&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;aetiology&quot;&gt;Aetiology&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mostly &lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;idiopathic&lt;/strong&gt; &lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&quot;color:green&quot;&gt; &lt;strong&gt;Left-sided renal tumour&lt;/strong&gt; &lt;/span&gt; (which may invade the left renal vein and prevent drainage of blood)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;span style=&quot;color:blue&quot;&gt; &lt;strong&gt;Painless&lt;/strong&gt; &lt;/span&gt; scrotal mass&lt;/li&gt;
+  &lt;li&gt;Scrotum feels heavy&lt;/li&gt;
+  &lt;li&gt;Family history of varicocele (especially brothers)&lt;/li&gt;
+  &lt;li&gt;In some, features of renal cell carcinoma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;examination&quot;&gt;Examination&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;span style=&quot;color:red&quot;&gt; &lt;strong&gt;Worm-like&lt;/strong&gt; &lt;/span&gt;venous dilatation&lt;/li&gt;
+  &lt;li&gt;Does not transilluminate (important to distinguish it from Hydrocele)&lt;/li&gt;
+  &lt;li&gt;Small testicle on the affected side (due to testicular growth arrest)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;investigations&quot;&gt;Investigations&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Usually by &lt;span style=&quot;color:orange&quot;&gt; &lt;strong&gt;clinical features&lt;/strong&gt; &lt;/span&gt;&lt;/li&gt;
+  &lt;li&gt;USS if uncertain or difficult examination&lt;/li&gt;
+  &lt;li&gt;Semen analysis and serum testosterone- men with subfertility and varicocele&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Adolescent:
+    &lt;ul&gt;
+      &lt;li&gt;Sub-clinical: reassurance&lt;/li&gt;
+      &lt;li&gt;&amp;lt;20% size difference or symmetrical testes: observation&lt;/li&gt;
+      &lt;li&gt;Asymetrical testes: Surgery&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Adults
+    &lt;ul&gt;
+      &lt;li&gt;Usually conservative by observation&lt;/li&gt;
+      &lt;li&gt;Surgery if symptomatic, or atrophic testes or, subfertility
+        &lt;ul&gt;
+          &lt;li&gt;Varicocelectomy, surgical ligation/embolisation of the affected vein&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">A varicocele is the abnormal dilation pampiniform plexus and the internal spermatic vein that drain blood from the testis. Left side (90%)&amp;gt; Right side (10%) Bilateral varicoceles may affect fertility</summary></entry><entry><title type="html">Cytochrome P450 enzymes</title><link href="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-P450-enzymes.html" rel="alternate" type="text/html" title="Cytochrome P450 enzymes" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-%20P450%20enzymes</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-P450-enzymes.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. 
+Many drugs can either induce or inhibit P450 family of enzymes. 
+When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//assets/images/P450_inducer_inhibitor.png&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;p450-inducers&quot;&gt;P450 inducers&lt;/h1&gt;
+&lt;p&gt;Dugs which are metabolised by P450 will be reduced in bioavailability&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Anti-epilectics: Phenytoin, Carbamazepine, Barbituates&lt;/li&gt;
+  &lt;li&gt;Rifampacin&lt;/li&gt;
+  &lt;li&gt;St John’s Wort&lt;/li&gt;
+  &lt;li&gt;Chronic alcohol intake&lt;/li&gt;
+  &lt;li&gt;Griseofulvin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;p450-inhibitors&quot;&gt;P450 inhibitors&lt;/h1&gt;
+&lt;p&gt;Drugs which are metabolised by P450 will be increased in bioavailability&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Antibiotics (MNEMONIC: &lt;strong&gt;MICE&lt;/strong&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;Metronidazole&lt;/li&gt;
+      &lt;li&gt;Isoniazid&lt;/li&gt;
+      &lt;li&gt;Ciprofloxacin&lt;/li&gt;
+      &lt;li&gt;Erythromycin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Antifungal
+    &lt;ul&gt;
+      &lt;li&gt;Ketoconazole&lt;/li&gt;
+      &lt;li&gt;Fluconazole&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anti-epileptics
+    &lt;ul&gt;
+      &lt;li&gt;Sodium valporate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anti-peptics drugs
+    &lt;ul&gt;
+      &lt;li&gt;Cementidine&lt;/li&gt;
+      &lt;li&gt;Omeprazole&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SSRI
+    &lt;ul&gt;
+      &lt;li&gt;Sertraline&lt;/li&gt;
+      &lt;li&gt;Fluoxetine&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Others
+    &lt;ul&gt;
+      &lt;li&gt;Amiodarone&lt;/li&gt;
+      &lt;li&gt;Allopurinol&lt;/li&gt;
+      &lt;li&gt;Ritonavir&lt;/li&gt;
+      &lt;li&gt;Quinupristin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Introduction Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. Many drugs can either induce or inhibit P450 family of enzymes. When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.</summary></entry><entry><title type="html">Gastritis</title><link href="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-Gastritis.html" rel="alternate" type="text/html" title="Gastritis" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-%20Gastritis</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-Gastritis.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Inflammation of the lining of the stomach&lt;/p&gt;
+
+&lt;h1 id=&quot;risk-factors&quot;&gt;Risk Factors&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Halicobacter Pylori&lt;/em&gt; infection&lt;/li&gt;
+  &lt;li&gt;Alcohol&lt;/li&gt;
+  &lt;li&gt;Drug induced
+    &lt;ul&gt;
+      &lt;li&gt;NSAIDs, antiplatelet, steroids&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reflux/hiatus hernia&lt;/li&gt;
+  &lt;li&gt;Autoimmune related (antiparietal cell antibodies)&lt;/li&gt;
+  &lt;li&gt;Stress gastritis (seen in critically ill patients)&lt;/li&gt;
+  &lt;li&gt;Uncommon
+    &lt;ul&gt;
+      &lt;li&gt;Granulomas (Crohn’s; sarcoidosis)&lt;/li&gt;
+      &lt;li&gt;CMV&lt;/li&gt;
+      &lt;li&gt;Zollinger–Ellison syndrome&lt;/li&gt;
+      &lt;li&gt;Ménétrier’s disease&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h1&gt;
+&lt;p&gt;Symptoms are fairly non-specific so diagnosis is mostly based on risk factors above&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dyspepsia&lt;/li&gt;
+  &lt;li&gt;Epigastric discomfort/pain&lt;/li&gt;
+  &lt;li&gt;Vomiting&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;investigations&quot;&gt;Investigations&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;H. Pylori breath test to rule out H. Pylori&lt;/li&gt;
+  &lt;li&gt;Upper GI endoscopy only if suspicious features
+    &lt;ul&gt;
+      &lt;li&gt;Dysphagia or;&lt;/li&gt;
+      &lt;li&gt;Over 55 years old with persistent symptoms or;&lt;/li&gt;
+      &lt;li&gt;ALARM signs: Anaemia (iron deficiency), Loss of weight, Anorexia, Recent onset/ progressive symptoms, Malaena/ Haematemesis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;treatment&quot;&gt;Treatment&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Lifestyle:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;↓Alcohol and tobacco&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;H. &lt;strong&gt;pylori eradication&lt;/strong&gt; (as above):
+    &lt;ul&gt;
+      &lt;li&gt;Triple therapy to eradicate&lt;/li&gt;
+      &lt;li&gt;PPI to reduce acid&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Drug-induced ulcers:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Stop drug if possible&lt;/li&gt;
+      &lt;li&gt;PPIs may be best for treating and preventing GI ulcers and bleeding in patients on NSAIDs or antiplatelet drugs&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">Introduction Inflammation of the lining of the stomach</summary></entry><entry><title type="html">Testicular Torsion</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html" rel="alternate" type="text/html" title="Testicular Torsion" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Testicular%20Torsion</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html">&lt;p&gt;An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)&lt;/p&gt;
 
 &lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
 
@@ -40,7 +217,9 @@
 
 &lt;ul&gt;
   &lt;li&gt;Consent for ?bilater orchidectomy + bilateral orchidoplexy (fixation)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)</summary></entry><entry><title type="html">Scrotal pain- Differential diagnosis</title><link href="http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html" rel="alternate" type="text/html" title="Scrotal pain- Differential diagnosis" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-%20Scrotal%20pain-%20Differential%20diagnosis</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html">&lt;p&gt;Note: Pain in the scrotum could also include pain in the testes.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)</summary></entry><entry><title type="html">Scrotal pain- Differential diagnosis</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html" rel="alternate" type="text/html" title="Scrotal pain- Differential diagnosis" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Scrotal%20pain-%20Differential%20diagnosis</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html">&lt;blockquote&gt;
+  &lt;p&gt;REMEMBER: Pain in the scrotum could also include pain in the testes.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Testicular torsion&lt;/li&gt;
@@ -52,7 +231,7 @@
   &lt;li&gt;Squamous cell carcinoma of the scrotum&lt;/li&gt;
   &lt;li&gt;Varicocele (rarely painful)&lt;/li&gt;
   &lt;li&gt;Hydrocele (rarely painful)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>jane</name></author><category term="Differential diagnosis" /><summary type="html">Note: Pain in the scrotum could also include pain in the testes.</summary></entry><entry><title type="html">Differential diagnosis: Interstitial Lung Disease</title><link href="http://localhost:4000/medicinenotebook/ddx-interstitial_lung_disease" rel="alternate" type="text/html" title="Differential diagnosis: Interstitial Lung Disease" /><published>2019-09-09T00:00:00+01:00</published><updated>2019-09-09T00:00:00+01:00</updated><id>http://localhost:4000/medicinenotebook/ddx-Interstitial_Lung_disease</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/ddx-interstitial_lung_disease">&lt;h1 id=&quot;what-is-pulmonary-fibrosis&quot;&gt;What is Pulmonary fibrosis?&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>jane</name></author><category term="Differential Diagnosis" /><summary type="html">REMEMBER: Pain in the scrotum could also include pain in the testes.</summary></entry><entry><title type="html">Differential diagnosis: Interstitial Lung Disease</title><link href="http://localhost:4000/ddx-interstitial_lung_disease" rel="alternate" type="text/html" title="Differential diagnosis: Interstitial Lung Disease" /><published>2019-09-09T00:00:00+01:00</published><updated>2019-09-09T00:00:00+01:00</updated><id>http://localhost:4000/ddx-Interstitial_Lung_disease</id><content type="html" xml:base="http://localhost:4000/ddx-interstitial_lung_disease">&lt;h1 id=&quot;what-is-pulmonary-fibrosis&quot;&gt;What is Pulmonary fibrosis?&lt;/h1&gt;
 &lt;p&gt;Pulmonary fibrosis = Interstitial lung disease —&amp;gt; abnormal and excessive deposition of fibres in lung parenchyma —&amp;gt; abnormal gas transfer&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -78,7 +257,7 @@
   &lt;li&gt;Drugs: Bleomycin, Nitrofurantoin and Amiodarone&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name>sal</name></author><category term="Differential Diagnosis" /><summary type="html">What is Pulmonary fibrosis? Pulmonary fibrosis = Interstitial lung disease —&amp;gt; abnormal and excessive deposition of fibres in lung parenchyma —&amp;gt; abnormal gas transfer</summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/medicinenotebook/pneumonia" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-08-18T00:00:00+01:00</published><updated>2019-08-18T00:00:00+01:00</updated><id>http://localhost:4000/medicinenotebook/management%20of%20pneumonia-Resp</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/pneumonia">&lt;h1 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h1&gt;
+&lt;hr /&gt;</content><author><name>sal</name></author><category term="Differential Diagnosis" /><summary type="html">What is Pulmonary fibrosis? Pulmonary fibrosis = Interstitial lung disease —&amp;gt; abnormal and excessive deposition of fibres in lung parenchyma —&amp;gt; abnormal gas transfer</summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumonia" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-08-18T00:00:00+01:00</published><updated>2019-08-18T00:00:00+01:00</updated><id>http://localhost:4000/management%20of%20pneumonia-Resp</id><content type="html" xml:base="http://localhost:4000/pneumonia">&lt;h1 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h1&gt;
 &lt;p&gt;An acute lower respiratory tract infection with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -127,22 +306,10 @@
 &lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
-&lt;div class=&quot;bs-callout bs-callout-info&quot;&gt;
+&lt;div class=&quot;alert-primary&quot;&gt;
   &lt;p&gt;This is a note callout. You can use these to provide important information on a topic.&lt;/p&gt;
   &lt;p&gt;You must follow a &lt;a href=&quot;http://www.php-fig.org/psr/psr-4/&quot;&gt;PSR-4 compliant&lt;/a&gt; structure when building a module.&lt;/p&gt;
-&lt;/div&gt;</content><author><name>sal</name></author><summary type="html">INTRODUCTION An acute lower respiratory tract infection with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/medicinenotebook/jekyll/test/2019/02/04/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-02-04T00:00:00+00:00</published><updated>2019-02-04T00:00:00+00:00</updated><id>http://localhost:4000/medicinenotebook/jekyll/test/2019/02/04/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/jekyll/test/2019/02/04/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor.html" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2019-02-03T00:00:00+00:00</published><updated>2019-02-03T00:00:00+00:00</updated><id>http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor.html">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+&lt;/div&gt;</content><author><name>sal</name></author><summary type="html">INTRODUCTION An acute lower respiratory tract infection with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray</summary></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor.html" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2019-02-03T00:00:00+00:00</published><updated>2019-02-03T00:00:00+00:00</updated><id>http://localhost:4000/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor.html">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
 
 &lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
 
@@ -167,7 +334,7 @@
 
 &lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/medicinenotebook/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
 
@@ -179,7 +346,7 @@
 
 &lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>jane</name></author><category term="summer" /><summary type="html">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" /></entry><entry><title type="html">The first mass-produced book to deviate from a rectilinear format</title><link href="http://localhost:4000/medicinenotebook/tutorial/2019/02/02/first-mass-produced.html" rel="alternate" type="text/html" title="The first mass-produced book to deviate from a rectilinear format" /><published>2019-02-02T00:00:00+00:00</published><updated>2019-02-02T00:00:00+00:00</updated><id>http://localhost:4000/medicinenotebook/tutorial/2019/02/02/first-mass-produced</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/tutorial/2019/02/02/first-mass-produced.html">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>jane</name></author><category term="summer" /><summary type="html">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" /></entry><entry><title type="html">The first mass-produced book to deviate from a rectilinear format</title><link href="http://localhost:4000/tutorial/2019/02/02/first-mass-produced.html" rel="alternate" type="text/html" title="The first mass-produced book to deviate from a rectilinear format" /><published>2019-02-02T00:00:00+00:00</published><updated>2019-02-02T00:00:00+00:00</updated><id>http://localhost:4000/tutorial/2019/02/02/first-mass-produced</id><content type="html" xml:base="http://localhost:4000/tutorial/2019/02/02/first-mass-produced.html">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
 
 &lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
 
@@ -201,46 +368,7 @@
 
 &lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/medicinenotebook/assets/images/17.jpg" /></entry><entry><title type="html">Education must also train one for quick, resolute and effective thinking.</title><link href="http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/02/01/education.html" rel="alternate" type="text/html" title="Education must also train one for quick, resolute and effective thinking." /><published>2019-02-01T00:00:00+00:00</published><updated>2019-02-01T00:00:00+00:00</updated><id>http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/02/01/education</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/02/01/education.html">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
-
-&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/medicinenotebook/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">There are lots of powerful things you can do with the Markdown editor</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/medicinenotebook/assets/images/3.jpg" /></entry><entry><title type="html">Accumulated experience of social living</title><link href="http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/01/30/acumulated-experience.html" rel="alternate" type="text/html" title="Accumulated experience of social living" /><published>2019-01-30T00:00:00+00:00</published><updated>2019-01-30T00:00:00+00:00</updated><id>http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/01/30/acumulated-experience</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/jekyll/tutorial/2019/01/30/acumulated-experience.html">&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/17.jpg" /></entry><entry><title type="html">Accumulated experience of social living</title><link href="http://localhost:4000/jekyll/tutorial/2019/01/30/acumulated-experience.html" rel="alternate" type="text/html" title="Accumulated experience of social living" /><published>2019-01-30T00:00:00+00:00</published><updated>2019-01-30T00:00:00+00:00</updated><id>http://localhost:4000/jekyll/tutorial/2019/01/30/acumulated-experience</id><content type="html" xml:base="http://localhost:4000/jekyll/tutorial/2019/01/30/acumulated-experience.html">&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
 
 &lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
 
@@ -250,12 +378,4 @@
 
 &lt;blockquote&gt;
   &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>sal</name></author><summary type="html">The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/medicinenotebook/assets/images/15.jpg" /></entry><entry><title type="html">About Bundler</title><link href="http://localhost:4000/medicinenotebook/jekyll/2019/01/29/about-bundler.html" rel="alternate" type="text/html" title="About Bundler" /><published>2019-01-29T00:00:00+00:00</published><updated>2019-01-29T00:00:00+00:00</updated><id>http://localhost:4000/medicinenotebook/jekyll/2019/01/29/about-bundler</id><content type="html" xml:base="http://localhost:4000/medicinenotebook/jekyll/2019/01/29/about-bundler.html">&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;gem install bundler&lt;/code&gt; installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;bundler&lt;/code&gt; is a gem that manages other Ruby gems. It makes sure your gems and gem versions are compatible, and that you have all necessary dependencies each gem requires.&lt;/p&gt;
-
-&lt;p&gt;The &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; files inform &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; about the gem requirements in your site. If your site doesn’t have these Gemfiles, you can omit &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec&lt;/code&gt; and just &lt;code class=&quot;highlighter-rouge&quot;&gt;run jekyll serve&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;When you run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; uses the gems and versions as specified in &lt;code class=&quot;highlighter-rouge&quot;&gt;Gemfile.lock&lt;/code&gt; to ensure your Jekyll site builds with no compatibility or dependency conflicts.&lt;/p&gt;
-
-&lt;p&gt;For more information about how to use &lt;code class=&quot;highlighter-rouge&quot;&gt;Bundler&lt;/code&gt; in your Jekyll project, this tutorial should provide answers to the most common questions and explain how to get up and running quickly.&lt;/p&gt;</content><author><name>sal</name></author><summary type="html">gem install bundler installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/medicinenotebook/assets/images/2.jpg" /></entry></feed>
+&lt;/blockquote&gt;</content><author><name>sal</name></author><summary type="html">The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/15.jpg" /></entry></feed>
