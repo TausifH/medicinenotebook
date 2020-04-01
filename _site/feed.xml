@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T06:35:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Abdominal Aortic Aneurysm</title><link href="http://localhost:4000/abdominal-aortic-aneurysm" rel="alternate" type="text/html" title="Abdominal Aortic Aneurysm" /><published>2020-04-01T00:00:00+01:00</published><updated>2020-04-01T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Abdominal-Aortic-Aneurysm</id><content type="html" xml:base="http://localhost:4000/abdominal-aortic-aneurysm">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T06:39:40+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Abdominal Aortic Aneurysm</title><link href="http://localhost:4000/abdominal-aortic-aneurysm" rel="alternate" type="text/html" title="Abdominal Aortic Aneurysm" /><published>2020-04-01T00:00:00+01:00</published><updated>2020-04-01T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Abdominal-Aortic-Aneurysm</id><content type="html" xml:base="http://localhost:4000/abdominal-aortic-aneurysm">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;An artery dilatation &amp;gt;50% (X1.5) of its original diameter is called aneurysm&lt;/li&gt;
@@ -33,7 +33,7 @@
   &lt;p&gt;REMEMBER: 1 in 25 males over 65, without having additional risk factors, will be found to have an AAA. However, 1 in 6 males with accompanying risks factors, will have an AAA.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;#Examination&lt;/p&gt;
+&lt;h1 id=&quot;examination&quot;&gt;Examination&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Normal abdominal aorta will be pulsatile not expansile&lt;/li&gt;
@@ -45,7 +45,7 @@
 
 &lt;p&gt;Genetic component involved so there is familial cluster. Ask specifically for family Hx of AAA or other aneurysm&lt;/p&gt;
 
-&lt;p&gt;#Common sites of AAA&lt;/p&gt;
+&lt;h1 id=&quot;common-sites-of-aaa&quot;&gt;Common sites of AAA&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Aortic (infra-renal accounts for 90% of cases)&lt;/li&gt;
@@ -55,7 +55,7 @@
   &lt;li&gt;Thoracic aneurysms (accounts for 10% of cases)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;#Presentation&lt;/p&gt;
+&lt;h1 id=&quot;presentation&quot;&gt;Presentation&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Unruptured AAA&lt;/strong&gt;
@@ -74,7 +74,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;#Differential diagnosis&lt;/p&gt;
+&lt;h1 id=&quot;differential-diagnosis&quot;&gt;Differential diagnosis&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Renal colic&lt;/li&gt;
@@ -88,7 +88,7 @@
   &lt;p&gt;NEVER miss AAA in someone complaining of loin to groin pain.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;#Complications of AAA&lt;/p&gt;
+&lt;h1 id=&quot;complications-of-aaa&quot;&gt;Complications of AAA&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Rupture (increases with age for individuals &amp;gt;65yrs)&lt;/li&gt;
@@ -101,7 +101,7 @@
   &lt;li&gt;Pressure on surrounding structure&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;#Investigations&lt;/p&gt;
+&lt;h1 id=&quot;investigations&quot;&gt;Investigations&lt;/h1&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Imaging
@@ -117,7 +117,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;#Risk management and treatment[[NICE]][1]&lt;/p&gt;
+&lt;h1 id=&quot;risk-management-and-treatmentnice&quot;&gt;Risk management and treatment&lt;a href=&quot;https://www.nice.org.uk/guidance/ng156/chapter/Recommendations&quot; title=&quot;NICE AAA &quot;&gt;[NICE]&lt;/a&gt;&lt;/h1&gt;
 &lt;h2 id=&quot;low-rupture-risk&quot;&gt;Low rupture risk&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -131,8 +131,7 @@
   &lt;li&gt;elective endovascular repair (EVAR) is preferred over open repair
     &lt;ul&gt;
       &lt;li&gt;In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm.&lt;/li&gt;
-      &lt;li&gt;Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)
-[1]: https://www.nice.org.uk/guidance/ng156/chapter/Recommendations “NICE AAA “&lt;/li&gt;
+      &lt;li&gt;Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Definition</summary></entry><entry><title type="html">Varicocele</title><link href="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html" rel="alternate" type="text/html" title="Varicocele" /><published>2020-03-20T00:00:00+00:00</published><updated>2020-03-20T00:00:00+00:00</updated><id>http://localhost:4000/urology/2020/03/20/Urology-Varicocele</id><content type="html" xml:base="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html">&lt;ul&gt;

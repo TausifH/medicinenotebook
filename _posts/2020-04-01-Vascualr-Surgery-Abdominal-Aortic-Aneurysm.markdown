@@ -33,7 +33,7 @@ permalink: /abdominal-aortic-aneurysm
 
 > REMEMBER: 1 in 25 males over 65, without having additional risk factors, will be found to have an AAA. However, 1 in 6 males with accompanying risks factors, will have an AAA. 
 
-#Examination
+# Examination
 
 - Normal abdominal aorta will be pulsatile not expansile
 - AAA will be pulsatile and expansile
@@ -43,7 +43,7 @@ permalink: /abdominal-aortic-aneurysm
 
 Genetic component involved so there is familial cluster. Ask specifically for family Hx of AAA or other aneurysm
 
-#Common sites of AAA
+# Common sites of AAA
 
 - Aortic (infra-renal accounts for 90% of cases)
 - Iliac
@@ -51,7 +51,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 - Femoral (can be felt as lump in the groin)
 - Thoracic aneurysms (accounts for 10% of cases)
 
-#Presentation
+# Presentation
 
 - **Unruptured AAA**
     - Often none
@@ -62,7 +62,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
     - Collapse
     - HypovolaemicShock (tachycardia, tachypnoea, sweating, syncope and collapse)
 
-#Differential diagnosis
+# Differential diagnosis
 
 - Renal colic
 - Acute pancreatitis
@@ -72,7 +72,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 
 > NEVER miss AAA in someone complaining of loin to groin pain.
 
-#Complications of AAA
+# Complications of AAA
 
 - Rupture (increases with age for individuals >65yrs)
 - Thrombosis/embolism
@@ -80,7 +80,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 - Fistulae
 - Pressure on surrounding structure
 
-#Investigations
+# Investigations
 
 - Imaging
     - US for monitoring
@@ -88,7 +88,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 - Other
     - FBC, clotting factor, renal and liver function, and cross match for surgery
 
-#Risk management and treatment[[NICE]][1]
+# Risk management and treatment[[NICE]][1]
 ## Low rupture risk  
 
 - asymptomatic, aortic diameter <5.5cm
@@ -101,4 +101,5 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 - elective endovascular repair (EVAR) is preferred over open repair
     - In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm.
     - Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)
+
 [1]: https://www.nice.org.uk/guidance/ng156/chapter/Recommendations "NICE AAA "
