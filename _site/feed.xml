@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T04:56:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Varicocele</title><link href="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html" rel="alternate" type="text/html" title="Varicocele" /><published>2020-03-20T00:00:00+00:00</published><updated>2020-03-20T00:00:00+00:00</updated><id>http://localhost:4000/urology/2020/03/20/Urology-Varicocele</id><content type="html" xml:base="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T06:35:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Abdominal Aortic Aneurysm</title><link href="http://localhost:4000/abdominal-aortic-aneurysm" rel="alternate" type="text/html" title="Abdominal Aortic Aneurysm" /><published>2020-04-01T00:00:00+01:00</published><updated>2020-04-01T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Abdominal-Aortic-Aneurysm</id><content type="html" xml:base="http://localhost:4000/abdominal-aortic-aneurysm">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An artery dilatation &amp;gt;50% (X1.5) of its original diameter is called aneurysm&lt;/li&gt;
+  &lt;li&gt;True aneurysm: dilatation of all layers of the blood vessels&lt;/li&gt;
+  &lt;li&gt;False aneurysm (pseudoaneurysm): dilatation of aventitia which communicated with lumen usually following trauma&lt;/li&gt;
+  &lt;li&gt;Types of aneurysms are listed
+    &lt;ul&gt;
+      &lt;li&gt;Berry aneurysm- bulges from one side of the artery&lt;/li&gt;
+      &lt;li&gt;Fusiform aneurysm- bulges from all sides of an artery&lt;/li&gt;
+      &lt;li&gt;Giant aneurysm- involve more than one artery. It is over 2.5 cm wide&lt;/li&gt;
+      &lt;li&gt;Mycotic aneurysm- caused by infected artery wall&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;aetiology-similar-to-cardiovascular-risk-factors&quot;&gt;Aetiology (similar to cardiovascular risk factors)&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Male&lt;/li&gt;
+  &lt;li&gt;Over 65 years of age&lt;/li&gt;
+  &lt;li&gt;Atherosclerotic factors: hypertension, smoking, obesity, sedentary lifestyle, hyperlipidaemia, diabetes&lt;/li&gt;
+  &lt;li&gt;Family history of AAA: 10% risk if first-degree relative affected&lt;/li&gt;
+  &lt;li&gt;Congenital - berry aneurysms&lt;/li&gt;
+  &lt;li&gt;Infective - mycotic aneurysms&lt;/li&gt;
+  &lt;li&gt;Traumatic - non/penetrative&lt;/li&gt;
+  &lt;li&gt;Inflammatory - vasculitis&lt;/li&gt;
+  &lt;li&gt;Connective tissue disorders - certain conditions here can predispose to aneurysm formation therefore should be monitored regularly. Such conditions include Marfan’s Syndrome and Ehlers-Danlos Syndrome&lt;/li&gt;
+  &lt;li&gt;Cocaine - can cause aortic, cerebral and peripheral aneurysms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;REMEMBER: 1 in 25 males over 65, without having additional risk factors, will be found to have an AAA. However, 1 in 6 males with accompanying risks factors, will have an AAA.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;#Examination&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Normal abdominal aorta will be pulsatile not expansile&lt;/li&gt;
+  &lt;li&gt;AAA will be pulsatile and expansile&lt;/li&gt;
+  &lt;li&gt;Expansile abdominal mass (it expands and contracts)&lt;/li&gt;
+  &lt;li&gt;Swelling that are just pulsatile&lt;/li&gt;
+  &lt;li&gt;Shock (in rupture)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Genetic component involved so there is familial cluster. Ask specifically for family Hx of AAA or other aneurysm&lt;/p&gt;
+
+&lt;p&gt;#Common sites of AAA&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aortic (infra-renal accounts for 90% of cases)&lt;/li&gt;
+  &lt;li&gt;Iliac&lt;/li&gt;
+  &lt;li&gt;Popliteal (accounts of 80% of all peripheral aneurysm, usually bilateral)&lt;/li&gt;
+  &lt;li&gt;Femoral (can be felt as lump in the groin)&lt;/li&gt;
+  &lt;li&gt;Thoracic aneurysms (accounts for 10% of cases)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#Presentation&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Unruptured AAA&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Often none&lt;/li&gt;
+      &lt;li&gt;May cause abdominal/back pain&lt;/li&gt;
+      &lt;li&gt;Often discovered incidentally in US or CT KUB&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ruptured AAA&lt;/strong&gt; (rupturing largely dependent on the size and rate of increase of the diameter)
+    &lt;ul&gt;
+      &lt;li&gt;Intermittent or continuous abdominal pain (radiates to back, iliac fossae, or grain  Do not confuse with renal colic)&lt;/li&gt;
+      &lt;li&gt;Collapse&lt;/li&gt;
+      &lt;li&gt;HypovolaemicShock (tachycardia, tachypnoea, sweating, syncope and collapse)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#Differential diagnosis&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Renal colic&lt;/li&gt;
+  &lt;li&gt;Acute pancreatitis&lt;/li&gt;
+  &lt;li&gt;Diverticulitis&lt;/li&gt;
+  &lt;li&gt;Testicular pain&lt;/li&gt;
+  &lt;li&gt;Erosion of vertebral bodies&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;NEVER miss AAA in someone complaining of loin to groin pain.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;#Complications of AAA&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rupture (increases with age for individuals &amp;gt;65yrs)&lt;/li&gt;
+  &lt;li&gt;Thrombosis/embolism
+    &lt;ul&gt;
+      &lt;li&gt;Blood often slow around the edges of aneurysm sac leading to thrombus formation and emboli occluding peripheral arteries è pt can present with limb ischaemia/claudication&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fistulae&lt;/li&gt;
+  &lt;li&gt;Pressure on surrounding structure&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#Investigations&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Imaging
+    &lt;ul&gt;
+      &lt;li&gt;US for monitoring&lt;/li&gt;
+      &lt;li&gt;CT for anatomical details, to look for ‘crescent sign’- sign of impending rupture&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Other
+    &lt;ul&gt;
+      &lt;li&gt;FBC, clotting factor, renal and liver function, and cross match for surgery&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#Risk management and treatment[[NICE]][1]&lt;/p&gt;
+&lt;h2 id=&quot;low-rupture-risk&quot;&gt;Low rupture risk&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;asymptomatic, aortic diameter &amp;lt;5.5cm&lt;/li&gt;
+  &lt;li&gt;3.5 - 4cm = annual check&lt;/li&gt;
+  &lt;li&gt;4 -5cm = 6-monthly check&lt;/li&gt;
+  &lt;li&gt;treat with abdominal US surveillance and aggressively optimise cardiovascular risk factors (e.g. stop smoking)
+##High rupture risk&lt;/li&gt;
+  &lt;li&gt;symptomatic, aortic diameter &amp;gt;=5.5cm or rapidly enlarging (&amp;gt;1cm/year)&lt;/li&gt;
+  &lt;li&gt;treat with&lt;/li&gt;
+  &lt;li&gt;elective endovascular repair (EVAR) is preferred over open repair
+    &lt;ul&gt;
+      &lt;li&gt;In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm.&lt;/li&gt;
+      &lt;li&gt;Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)
+[1]: https://www.nice.org.uk/guidance/ng156/chapter/Recommendations “NICE AAA “&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Definition</summary></entry><entry><title type="html">Varicocele</title><link href="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html" rel="alternate" type="text/html" title="Varicocele" /><published>2020-03-20T00:00:00+00:00</published><updated>2020-03-20T00:00:00+00:00</updated><id>http://localhost:4000/urology/2020/03/20/Urology-Varicocele</id><content type="html" xml:base="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html">&lt;ul&gt;
   &lt;li&gt;A varicocele is the abnormal dilation  pampiniform plexus and the internal spermatic vein that drain blood from the testis.&lt;/li&gt;
   &lt;li&gt;Left side (90%)&amp;gt; Right side (10%)&lt;/li&gt;
   &lt;li&gt;Bilateral varicoceles may affect fertility&lt;/li&gt;
@@ -51,66 +188,7 @@
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">A varicocele is the abnormal dilation pampiniform plexus and the internal spermatic vein that drain blood from the testis. Left side (90%)&amp;gt; Right side (10%) Bilateral varicoceles may affect fertility</summary></entry><entry><title type="html">Cytochrome P450 enzymes</title><link href="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-P450-enzymes.html" rel="alternate" type="text/html" title="Cytochrome P450 enzymes" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-%20P450%20enzymes</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-P450-enzymes.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. 
-Many drugs can either induce or inhibit P450 family of enzymes. 
-When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;//assets/images/P450_inducer_inhibitor.png&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;p450-inducers&quot;&gt;P450 inducers&lt;/h1&gt;
-&lt;p&gt;Dugs which are metabolised by P450 will be reduced in bioavailability&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Anti-epilectics: Phenytoin, Carbamazepine, Barbituates&lt;/li&gt;
-  &lt;li&gt;Rifampacin&lt;/li&gt;
-  &lt;li&gt;St John’s Wort&lt;/li&gt;
-  &lt;li&gt;Chronic alcohol intake&lt;/li&gt;
-  &lt;li&gt;Griseofulvin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;p450-inhibitors&quot;&gt;P450 inhibitors&lt;/h1&gt;
-&lt;p&gt;Drugs which are metabolised by P450 will be increased in bioavailability&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Antibiotics (MNEMONIC: &lt;strong&gt;MICE&lt;/strong&gt;)
-    &lt;ul&gt;
-      &lt;li&gt;Metronidazole&lt;/li&gt;
-      &lt;li&gt;Isoniazid&lt;/li&gt;
-      &lt;li&gt;Ciprofloxacin&lt;/li&gt;
-      &lt;li&gt;Erythromycin&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Antifungal
-    &lt;ul&gt;
-      &lt;li&gt;Ketoconazole&lt;/li&gt;
-      &lt;li&gt;Fluconazole&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Anti-epileptics
-    &lt;ul&gt;
-      &lt;li&gt;Sodium valporate&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Anti-peptics drugs
-    &lt;ul&gt;
-      &lt;li&gt;Cementidine&lt;/li&gt;
-      &lt;li&gt;Omeprazole&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;SSRI
-    &lt;ul&gt;
-      &lt;li&gt;Sertraline&lt;/li&gt;
-      &lt;li&gt;Fluoxetine&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Others
-    &lt;ul&gt;
-      &lt;li&gt;Amiodarone&lt;/li&gt;
-      &lt;li&gt;Allopurinol&lt;/li&gt;
-      &lt;li&gt;Ritonavir&lt;/li&gt;
-      &lt;li&gt;Quinupristin&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Introduction Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. Many drugs can either induce or inhibit P450 family of enzymes. When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.</summary></entry><entry><title type="html">Gastritis</title><link href="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-Gastritis.html" rel="alternate" type="text/html" title="Gastritis" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-%20Gastritis</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-Gastritis.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">A varicocele is the abnormal dilation pampiniform plexus and the internal spermatic vein that drain blood from the testis. Left side (90%)&amp;gt; Right side (10%) Bilateral varicoceles may affect fertility</summary></entry><entry><title type="html">Gastritis</title><link href="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-Gastritis.html" rel="alternate" type="text/html" title="Gastritis" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-%20Gastritis</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-Gastritis.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Inflammation of the lining of the stomach&lt;/p&gt;
 
 &lt;h1 id=&quot;risk-factors&quot;&gt;Risk Factors&lt;/h1&gt;
@@ -175,7 +253,66 @@ When P450 enzymes are either induced or inhibited, it can effect of the bioavail
       &lt;li&gt;PPIs may be best for treating and preventing GI ulcers and bleeding in patients on NSAIDs or antiplatelet drugs&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">Introduction Inflammation of the lining of the stomach</summary></entry><entry><title type="html">Testicular Torsion</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html" rel="alternate" type="text/html" title="Testicular Torsion" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Testicular%20Torsion</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html">&lt;p&gt;An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">Introduction Inflammation of the lining of the stomach</summary></entry><entry><title type="html">Cytochrome P450 enzymes</title><link href="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-P450-enzymes.html" rel="alternate" type="text/html" title="Cytochrome P450 enzymes" /><published>2020-03-03T00:00:00+00:00</published><updated>2020-03-03T00:00:00+00:00</updated><id>http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-%20P450%20enzymes</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/03/03/Gastroenterology-P450-enzymes.html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. 
+Many drugs can either induce or inhibit P450 family of enzymes. 
+When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//assets/images/P450_inducer_inhibitor.png&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;p450-inducers&quot;&gt;P450 inducers&lt;/h1&gt;
+&lt;p&gt;Dugs which are metabolised by P450 will be reduced in bioavailability&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Anti-epilectics: Phenytoin, Carbamazepine, Barbituates&lt;/li&gt;
+  &lt;li&gt;Rifampacin&lt;/li&gt;
+  &lt;li&gt;St John’s Wort&lt;/li&gt;
+  &lt;li&gt;Chronic alcohol intake&lt;/li&gt;
+  &lt;li&gt;Griseofulvin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;p450-inhibitors&quot;&gt;P450 inhibitors&lt;/h1&gt;
+&lt;p&gt;Drugs which are metabolised by P450 will be increased in bioavailability&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Antibiotics (MNEMONIC: &lt;strong&gt;MICE&lt;/strong&gt;)
+    &lt;ul&gt;
+      &lt;li&gt;Metronidazole&lt;/li&gt;
+      &lt;li&gt;Isoniazid&lt;/li&gt;
+      &lt;li&gt;Ciprofloxacin&lt;/li&gt;
+      &lt;li&gt;Erythromycin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Antifungal
+    &lt;ul&gt;
+      &lt;li&gt;Ketoconazole&lt;/li&gt;
+      &lt;li&gt;Fluconazole&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anti-epileptics
+    &lt;ul&gt;
+      &lt;li&gt;Sodium valporate&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anti-peptics drugs
+    &lt;ul&gt;
+      &lt;li&gt;Cementidine&lt;/li&gt;
+      &lt;li&gt;Omeprazole&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SSRI
+    &lt;ul&gt;
+      &lt;li&gt;Sertraline&lt;/li&gt;
+      &lt;li&gt;Fluoxetine&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Others
+    &lt;ul&gt;
+      &lt;li&gt;Amiodarone&lt;/li&gt;
+      &lt;li&gt;Allopurinol&lt;/li&gt;
+      &lt;li&gt;Ritonavir&lt;/li&gt;
+      &lt;li&gt;Quinupristin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Introduction Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. Many drugs can either induce or inhibit P450 family of enzymes. When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.</summary></entry><entry><title type="html">Testicular Torsion</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html" rel="alternate" type="text/html" title="Testicular Torsion" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Testicular%20Torsion</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html">&lt;p&gt;An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)&lt;/p&gt;
 
 &lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
 
@@ -368,14 +505,4 @@ When P450 enzymes are either induced or inhibited, it can effect of the bioavail
 
 &lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
 
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/17.jpg" /></entry><entry><title type="html">Accumulated experience of social living</title><link href="http://localhost:4000/jekyll/tutorial/2019/01/30/acumulated-experience.html" rel="alternate" type="text/html" title="Accumulated experience of social living" /><published>2019-01-30T00:00:00+00:00</published><updated>2019-01-30T00:00:00+00:00</updated><id>http://localhost:4000/jekyll/tutorial/2019/01/30/acumulated-experience</id><content type="html" xml:base="http://localhost:4000/jekyll/tutorial/2019/01/30/acumulated-experience.html">&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>sal</name></author><summary type="html">The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/15.jpg" /></entry></feed>
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/17.jpg" /></entry></feed>
