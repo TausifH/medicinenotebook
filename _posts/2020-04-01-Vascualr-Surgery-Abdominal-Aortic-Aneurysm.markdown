@@ -2,7 +2,7 @@
 layout: post
 title:  "Abdominal Aortic Aneurysm"
 description: " Definition of Abdominal Aortic Aneurysm, aetiology"
-categories: [ Vascular Surgery ] 
+categories: [ Vascular ] 
 permalink: /abdominal-aortic-aneurysm
 
 ---
