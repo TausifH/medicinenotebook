@@ -45,7 +45,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 
 # Common sites of AAA
 
-- Aortic (infra-renal accounts for 90% of cases)
+- Aortic (infra-renal accounts for 90% of cases) [^1]
 - Iliac
 - Popliteal (accounts of 80% of all peripheral aneurysm, usually bilateral)
 - Femoral (can be felt as lump in the groin)
@@ -103,3 +103,5 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
     - Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)
 
 [1]: https://www.nice.org.uk/guidance/ng156/chapter/Recommendations "NICE AAA "
+
+[^1] The relevant provisions of § 2323 allow for the forfeiture of "(A) Any article, the making or trafficking of which is, prohibited under section 506 of title 17″ prohibiting "willful copyright infringement" and "(B) Any property used, or intended to be used, in any manner or part to commit or facilitate the commission of an offense referred to in subparagraph (A)
