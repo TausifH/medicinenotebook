@@ -45,7 +45,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 
 # Common sites of AAA
 
-- Aortic (infra-renal accounts for 90% of cases) [^1]
+- Aortic (infra-renal accounts for 90% of cases) [[^1]]
 - Iliac
 - Popliteal (accounts of 80% of all peripheral aneurysm, usually bilateral)
 - Femoral (can be felt as lump in the groin)
