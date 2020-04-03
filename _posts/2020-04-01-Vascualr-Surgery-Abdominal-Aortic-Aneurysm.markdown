@@ -104,4 +104,4 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 
 [1]: https://www.nice.org.uk/guidance/ng156/chapter/Recommendations "NICE AAA "
 
-[^1] The relevant provisions of § 2323 allow for the forfeiture of "(A) Any article, the making or trafficking of which is, prohibited under section 506 of title 17″ prohibiting "willful copyright infringement" and "(B) Any property used, or intended to be used, in any manner or part to commit or facilitate the commission of an offense referred to in subparagraph (A)
+[^1]: The relevant provisions of § 2323 allow for the forfeiture of "(A) Any article, the making or trafficking of which is, prohibited under section 506 of title 17″ prohibiting "willful copyright infringement" and "(B) Any property used, or intended to be used, in any manner or part to commit or facilitate the commission of an offense referred to in subparagraph (A)
