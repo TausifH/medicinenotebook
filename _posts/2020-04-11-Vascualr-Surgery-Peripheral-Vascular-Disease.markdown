@@ -13,7 +13,7 @@ permalink: /peripheral-vascular-disease
 - Cardiovascular risk factors should be identified and treated aggressively.
 - The most important presentation is intermittent claudication
 
-# 4 disease pattern
+# Disease pattern
 - Intermittent claudication.
 - Critical limb ischaemia
 - Acute limb threatening ischaemia (See next section)
