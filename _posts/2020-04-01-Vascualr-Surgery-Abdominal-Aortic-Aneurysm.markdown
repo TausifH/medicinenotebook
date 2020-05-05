@@ -91,7 +91,7 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 # Risk management and treatment[[NICE]][1]
 ## Low rupture risk  
 
-![A flowchart diagramme of the management of Abdominal Aortic Aneurysm]({{ site.baseurl }}/assets/images/vascular_surgery/Management_of_AAA.png)
+<div class="shadow p-3 mb-5 bg-white rounded">![A flowchart diagramme of the management of Abdominal Aortic Aneurysm]({{ site.baseurl }}/assets/images/vascular_surgery/Management_of_AAA.png)</div>
 
 - asymptomatic, aortic diameter <5.5cm
 - 3.5 - 4cm = annual check
