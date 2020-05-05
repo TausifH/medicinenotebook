@@ -88,23 +88,19 @@ Genetic component involved so there is familial cluster. Ask specifically for fa
 - Other
     - FBC, clotting factor, renal and liver function, and cross match for surgery
 
-# Risk management and treatment[[NICE]][1]
-## Low rupture risk  
-
+# Risk management and treatment
 ![A flowchart diagramme of the management of Abdominal Aortic Aneurysm]({{ site.baseurl }}/assets/images/vascular_surgery/Management_of_AAA.png) 
-<figcaption class="figure-caption text-left mt-0">Management of abdominal aortic aneurysm</figcaption>
+<figcaption class="figure-caption text-left">Management of abdominal aortic aneurysm</figcaption>
+ 
+ 
+- Ruptured aneuryms 
+    - Repair either by EVAR or Open surgery
+- Unruptured aneurysm 
+    - Repair if; 
+        - symptomatic
+        - asymptomatic, larger than 4.0 cm and has grown by more than 1 cm in 1 year
+        - asymptomatic and 5.5 cm or larger
 
-- asymptomatic, aortic diameter <5.5cm
-- 3.5 - 4cm = annual check
-- 4 -5cm = 6-monthly check
-- treat with abdominal US surveillance and aggressively optimise cardiovascular risk factors (e.g. stop smoking)
-##High rupture risk  
-- symptomatic, aortic diameter >=5.5cm or rapidly enlarging (>1cm/year)
-- treat with
-- elective endovascular repair (EVAR) is preferred over open repair
-    - In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm.
-    - Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)
 
-[1]: https://www.nice.org.uk/guidance/ng156/chapter/Recommendations "NICE AAA "
-
+---
 [^1]: The relevant provisions of § 2323 allow for the forfeiture of "(A) Any article, the making or trafficking of which is, prohibited under section 506 of title 17″ prohibiting "willful copyright infringement" and "(B) Any property used, or intended to be used, in any manner or part to commit or facilitate the commission of an offense referred to in subparagraph (A)
