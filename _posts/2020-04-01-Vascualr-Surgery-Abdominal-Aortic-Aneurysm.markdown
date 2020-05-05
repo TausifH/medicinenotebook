@@ -26,7 +26,7 @@ permalink: /abdominal-aortic-aneurysm
 - Infective - mycotic aneurysms
 - Traumatic - non/penetrative
 - Inflammatory - vasculitis
-- Connective tissue disorders - certain conditions here can predispose to aneurysm formation therefore should be monitored regularly. Such conditions include Marfan's Syndrome and Ehlers-Danlos Syndrome
+- Connective tissue disorders- Marfan's Syndrome and Ehlers-Danlos Syndrome
 - Cocaine - can cause aortic, cerebral and peripheral aneurysms
 
 > REMEMBER: 1 in 25 males over 65, without having additional risk factors, will be found to have an AAA. However, 1 in 6 males with accompanying risks factors, will have an AAA. 
