@@ -13,7 +13,7 @@ Thank you so much!
 
 <div class="sticky-top sticky-top-offset">
     <ol class="list-featured">				
-        {% for post in site.categories.peripheral-vascular-diseae %}                
+        {% for post in site.categories.vascular-surgery %}                
             <li class="mb-4">
             <span>
                 <h6 class="font-weight-bold">
