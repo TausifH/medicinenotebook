@@ -1,5 +1,176 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-01T07:11:16+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Abdominal Aortic Aneurysm</title><link href="http://localhost:4000/abdominal-aortic-aneurysm" rel="alternate" type="text/html" title="Abdominal Aortic Aneurysm" /><published>2020-04-01T00:00:00+01:00</published><updated>2020-04-01T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Abdominal-Aortic-Aneurysm</id><content type="html" xml:base="http://localhost:4000/abdominal-aortic-aneurysm">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-08T19:15:28+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MedicineNotebook.</title><subtitle>MedicineNotebook is a free medical undergraduate and postgraduate revision and study website. It serves medicine, biomedicine and pharmacy undergraduate students and postgraduate MRCP and MRCS candidates.</subtitle><entry><title type="html">Oesophageal varices</title><link href="http://localhost:4000/gastroenterology/2020/04/23/Gastroenterology-Oesophageal-Varices.html" rel="alternate" type="text/html" title="Oesophageal varices" /><published>2020-04-23T00:00:00+01:00</published><updated>2020-04-23T00:00:00+01:00</updated><id>http://localhost:4000/gastroenterology/2020/04/23/Gastroenterology-Oesophageal-Varices</id><content type="html" xml:base="http://localhost:4000/gastroenterology/2020/04/23/Gastroenterology-Oesophageal-Varices.html">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Submucosal venous dilatation secondary to ↑portal pressures&lt;/li&gt;
+  &lt;li&gt;Not necessarily need to have a liver pathology—suspect if alcohol history&lt;/li&gt;
+  &lt;li&gt;Bleeding can be brisk, particularly if underlying coagulopathy 2° to loss of hepatic synthesis of clotting factors&lt;/li&gt;
+&lt;/ul&gt;
 
+&lt;h1 id=&quot;pathogenesis-from-liver-cirrhosis&quot;&gt;Pathogenesis (from liver cirrhosis)&lt;/h1&gt;
+
+&lt;p&gt;Progressive fibrosis and architectural reorganization of the liver (including nodule formation) → nodules produce contractile elements in the liver’s vascular bed → portal hypertension (from 9mmHg to 12mmHg) → arterial splanchnic vasodilation in response to portal hypertension (blood vessels supplying visceral organs) → hyperdynamic circulation (i.e. increased cardiac output, HR and decreased vascular resistance) → salt and water retention → increase portal flow → formation of collateral (porto-systemic collateral) between the portal and systemic systems e.g. in the lower oesophageal and gastric cardia → gastro-oesophageal varices develop once portal pressure is &amp;gt;10mmgHg (&amp;gt;12mmHg causes bleeding)&lt;/p&gt;
+
+&lt;p&gt;Variecs can also be found in the umbilicus (caput medusa, rare) and rectum&lt;/p&gt;
+
+&lt;h1 id=&quot;causes&quot;&gt;Causes&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pre-hepatic
+    &lt;ul&gt;
+      &lt;li&gt;Thrombosis (portal or splenic vein)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Intrahepatic
+    &lt;ul&gt;
+      &lt;li&gt;Cirrhosis (80%)&lt;/li&gt;
+      &lt;li&gt;Schistosomiasis (commonest worldwide)&lt;/li&gt;
+      &lt;li&gt;Sarcoid&lt;/li&gt;
+      &lt;li&gt;Myeloproliferative disease&lt;/li&gt;
+      &lt;li&gt;Congenital hepatic fibrosis&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Post hepatic
+    &lt;ul&gt;
+      &lt;li&gt;Budd-Chiari syndrome&lt;/li&gt;
+      &lt;li&gt;Right heart failure&lt;/li&gt;
+      &lt;li&gt;Constrictive pericarditis&lt;/li&gt;
+      &lt;li&gt;Veno-occlusive disease&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
+
+&lt;h2 id=&quot;blood-transfusion&quot;&gt;Blood transfusion&lt;/h2&gt;
+&lt;p&gt;Blood transfusion should be started when the haemoglobin level reaches 7 g/dL, and maintained between 7 g/dL and 9 g/dL (restrictive transfusion policy).[5][33][34] Blood transfusion above this threshold may increase mortality.[32]&lt;/p&gt;
+
+&lt;h2 id=&quot;all-pateints-with-chirosis-and-variceal-bleed&quot;&gt;All pateints with chirosis and variceal bleed&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Step 1: &lt;strong&gt;Terlipressin&lt;/strong&gt; or &lt;strong&gt;Somatostatin&lt;/strong&gt;  (synthetic analogue of vasopressin → splanchnic arterial constriction, CI: IHD)&lt;/li&gt;
+  &lt;li&gt;Step 2: 7 day prophylactic antibiotics (all patients with chirosis and variceal bleed) to cover gram negative infection&lt;/li&gt;
+  &lt;li&gt;Step 3: &lt;strong&gt;Endoscopy&lt;/strong&gt; (&lt;strong&gt;bang ligation or sclerotherapy&lt;/strong&gt;) within 12 hours Band-ligation is superior to sclerotherapy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;in-selective-patients-with-chirosis-and-variceal-bleed&quot;&gt;In selective patients with chirosis and variceal bleed&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Step 4: Early &lt;strong&gt;Transjugular Intrahepatic Portosystemic Shunting (TIPS)&lt;/strong&gt; (esp. as rescue therapy if Step 1-3 fails, in high risk pateints Child-Pugh class C (with a score &amp;lt;14) or class B with active bleeding within 24-72 hours from admission ) A metal stent is passed over a guidewire in the internal jugular vein and then pushed into the liver substance under radiological guidance. A shunt is formed between the portal and hepatic vein, thus lowering the portal pressure.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Step 3: if above fails, &lt;strong&gt;balloon tamponed&lt;/strong&gt; with a &lt;strong&gt;Sengstaken-Blakemore tube&lt;/strong&gt; (Risks: aspiration pneumonia, tissue necrosis, oesophageal rupture)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Step 5: Surgery (oesophageal transection and ligation of varices) if all above fails.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Prevention:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Recurrence high so need prophylaxis (primary or secondary) to prevent re-bleed&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Propranolol&lt;/strong&gt; as both primary and secondary prophylaxis&lt;/li&gt;
+  &lt;li&gt;Repeated courses of &lt;strong&gt;variceal banding&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;TIPS&lt;/strong&gt; or occasionally a surgical portosystemic shunt&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Definition Submucosal venous dilatation secondary to ↑portal pressures Not necessarily need to have a liver pathology—suspect if alcohol history Bleeding can be brisk, particularly if underlying coagulopathy 2° to loss of hepatic synthesis of clotting factors</summary></entry><entry><title type="html">Acute Limb Ischaemia</title><link href="http://localhost:4000/acute-limb-ischaemia" rel="alternate" type="text/html" title="Acute Limb Ischaemia" /><published>2020-04-11T00:00:00+01:00</published><updated>2020-04-11T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Acute-limb-ischaemia</id><content type="html" xml:base="http://localhost:4000/acute-limb-ischaemia">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Surgical emergency requiring revascularization within 4–6h to save the limb&lt;/li&gt;
+  &lt;li&gt;May be due to thrombosis in situ (~40%), emboli (38%), graft/angioplasty occlusion (15%), or trauma&lt;/li&gt;
+  &lt;li&gt;Can be at multiple sites&lt;/li&gt;
+  &lt;li&gt;Amputation rate: 16%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;symptoms-and-signs&quot;&gt;Symptoms and signs&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;In patients with known PAD, sudden deterioration of symptoms with deep duskiness of the limb may indicate acute arterial occlusion&lt;/li&gt;
+  &lt;li&gt;This appearance is due to extensive pre-existing collaterals and must not be misdiagnosed as gout/cellulitis.&lt;/li&gt;
+  &lt;li&gt;The 6 ‘p’s of acute ischaemia: pale, pulseless, painful, paralysed, paraesthetic, and ‘perishingly cold’&lt;/li&gt;
+  &lt;li&gt;Onset of fixed mottling implies irreversibility&lt;/li&gt;
+  &lt;li&gt;Emboli commonly arise from the heart (AF; mural thrombus) or aneurysms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Emergency open surgery or angioplasty&lt;/li&gt;
+  &lt;li&gt;If diagnosis is in doubt, do urgent arteriography&lt;/li&gt;
+  &lt;li&gt;If embolic occlusion → surgical embolectomy (Fogarty catheter) or local thrombolysis, (t-pa)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Definition Surgical emergency requiring revascularization within 4–6h to save the limb May be due to thrombosis in situ (~40%), emboli (38%), graft/angioplasty occlusion (15%), or trauma Can be at multiple sites Amputation rate: 16%.</summary></entry><entry><title type="html">Peripheral Vascular Disease</title><link href="http://localhost:4000/peripheral-vascular-disease" rel="alternate" type="text/html" title="Peripheral Vascular Disease" /><published>2020-04-11T00:00:00+01:00</published><updated>2020-04-11T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Peripheral-Vascular-Disease</id><content type="html" xml:base="http://localhost:4000/peripheral-vascular-disease">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Atherosclerosis of the peripheral arteries&lt;/li&gt;
+  &lt;li&gt;65% have coexisting clinically relevant cerebral or coronary artery disease.&lt;/li&gt;
+  &lt;li&gt;Cardiovascular risk factors should be identified and treated aggressively.&lt;/li&gt;
+  &lt;li&gt;The most important presentation is intermittent claudication&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;disease-pattern&quot;&gt;Disease pattern&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Intermittent claudication.&lt;/li&gt;
+  &lt;li&gt;Critical limb ischaemia&lt;/li&gt;
+  &lt;li&gt;Acute limb threatening ischaemia (See next section)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;symptoms&quot;&gt;Symptoms&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Cramping pain in the calf, thigh, or buttock after walking for a given distance (the claudication distance) and relieved by rest&lt;/li&gt;
+  &lt;li&gt;calf claudication = femoral disease&lt;/li&gt;
+  &lt;li&gt;buttock claudication = iliac disease).&lt;/li&gt;
+  &lt;li&gt;Ulceration, gangrene and foot pain at rest—eg burning pain at night relieved by hanging legs over side of bed—are the cardinal features of &lt;em&gt;critical ischaemia&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Buttock claudication ± impotence imply Leriche’s syndrome&lt;/li&gt;
+  &lt;li&gt;Young, heavy smokers are at risk from Buerger’s disease (thromboangiitis obliterans)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;signs&quot;&gt;Signs&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Absent femoral, popliteal, or foot pulses&lt;/li&gt;
+  &lt;li&gt;cold, white leg(s)&lt;/li&gt;
+  &lt;li&gt;Atrophic skin&lt;/li&gt;
+  &lt;li&gt;punched out ulcers (often painful)&lt;/li&gt;
+  &lt;li&gt;postural/dependent colour change&lt;/li&gt;
+  &lt;li&gt;Buerger’s angle (angle that leg goes pale when raised off the couch) of &amp;lt;20° and capillary filling time &amp;gt;15s are found in severe ischaemia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;investigations&quot;&gt;Investigations&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Exclude DM&lt;/li&gt;
+  &lt;li&gt;Arteritis (esr/crp)&lt;/li&gt;
+  &lt;li&gt;FBC (anaemia, polycythaemia)&lt;/li&gt;
+  &lt;li&gt;U&amp;amp;E (renal disease)&lt;/li&gt;
+  &lt;li&gt;Lipids (dyslipidaemia)&lt;/li&gt;
+  &lt;li&gt;Thrombophilia screen and serum homocysteine if &amp;lt;50 years.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;ankle-brachial-pressure-index-abpi&quot;&gt;Ankle-Brachial Pressure Index (ABPI)&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Normal = 1–1.2&lt;/li&gt;
+  &lt;li&gt;PAD= 0.5–0.9&lt;/li&gt;
+  &lt;li&gt;Critical limb ischaemia &amp;lt;0.5 or ankle systolic pressure &amp;lt;50mmHg&lt;/li&gt;
+  &lt;li&gt;Acute limb threatening ischaemia &amp;lt;0.3&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Beware falsely high results from incompressible calcified vessels in severe atherosclerosis e.g. DM&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;imaging&quot;&gt;Imaging&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;1st line: Colour duplex US&lt;/li&gt;
+  &lt;li&gt;If intervention considered: &lt;em&gt;MR/CT angiography&lt;/em&gt; for extent and location of stenoses and quality of distal vessels (‘run-off’).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
+
+&lt;h2 id=&quot;conservative&quot;&gt;Conservative&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cardiovascular risk factor modification: hypertension, diabetes, obesity, smoking etc.&lt;/li&gt;
+  &lt;li&gt;Supervised exercise (to the point of maximal pain) for 2hr/wk for 3 months&lt;/li&gt;
+  &lt;li&gt;Antiplatelet agent: 1 line) Clopidogrel 75mg; 2 line) Aspirin 75mg&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Risk factor modification:&lt;/em&gt;Quit smoking (vital). Treat hypertension and high cholesterol. Prescribe an antiplatelet agent (unless contraindicated), to prevent progression and to reduce cardiovascular risk. &lt;em&gt;Clopidogrel&lt;/em&gt; is recommended as 1st-line.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Vasoactive drugs&lt;/em&gt;, eg naftidrofuryl oxalate, in those who do not wish to undergo revascularization and if exercise fails to improve symptoms.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;surgical&quot;&gt;Surgical&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1st line: &lt;em&gt;Percutaneous transluminal angioplasty (PTA):&lt;/em&gt; is used for disease limited to a single arterial segment&lt;/li&gt;
+  &lt;li&gt;2nd line:&lt;em&gt;Bypass surgery:&lt;/em&gt; If extensive disease but distal run-off is good (i.e. distal arteries filled by collateral vessels). Procedures include femoral-popliteal bypass, femoral-femoral crossover, and aorto-bifemoral bypass grafts. Autologous graft &amp;gt; prosthetic grafts.&lt;/li&gt;
+  &lt;li&gt;3rd line: &lt;em&gt;Amputation:&lt;/em&gt; in intractable pain, sepsis, gangrene, and failed alternative strategies. Decision by the patient and vascular multidisciplinary team&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Definition Atherosclerosis of the peripheral arteries 65% have coexisting clinically relevant cerebral or coronary artery disease. Cardiovascular risk factors should be identified and treated aggressively. The most important presentation is intermittent claudication</summary></entry><entry><title type="html">Abdominal Aortic Aneurysm</title><link href="http://localhost:4000/abdominal-aortic-aneurysm" rel="alternate" type="text/html" title="Abdominal Aortic Aneurysm" /><published>2020-04-01T00:00:00+01:00</published><updated>2020-04-01T00:00:00+01:00</updated><id>http://localhost:4000/Vascualr-Surgery-Abdominal-Aortic-Aneurysm</id><content type="html" xml:base="http://localhost:4000/abdominal-aortic-aneurysm">&lt;h1 id=&quot;definition&quot;&gt;Definition&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;An artery dilatation &amp;gt;50% (X1.5) of its original diameter is called aneurysm&lt;/li&gt;
   &lt;li&gt;True aneurysm: dilatation of all layers of the blood vessels&lt;/li&gt;
@@ -14,8 +185,7 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;aetiology-similar-to-cardiovascular-risk-factors&quot;&gt;Aetiology (similar to cardiovascular risk factors)&lt;/h1&gt;
-
+&lt;h1 id=&quot;risk-factors&quot;&gt;Risk factors&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Male&lt;/li&gt;
   &lt;li&gt;Over 65 years of age&lt;/li&gt;
@@ -25,7 +195,7 @@
   &lt;li&gt;Infective - mycotic aneurysms&lt;/li&gt;
   &lt;li&gt;Traumatic - non/penetrative&lt;/li&gt;
   &lt;li&gt;Inflammatory - vasculitis&lt;/li&gt;
-  &lt;li&gt;Connective tissue disorders - certain conditions here can predispose to aneurysm formation therefore should be monitored regularly. Such conditions include Marfan’s Syndrome and Ehlers-Danlos Syndrome&lt;/li&gt;
+  &lt;li&gt;Connective tissue disorders- Marfan’s Syndrome and Ehlers-Danlos Syndrome&lt;/li&gt;
   &lt;li&gt;Cocaine - can cause aortic, cerebral and peripheral aneurysms&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -34,7 +204,6 @@
 &lt;/blockquote&gt;
 
 &lt;h1 id=&quot;examination&quot;&gt;Examination&lt;/h1&gt;
-
 &lt;ul&gt;
   &lt;li&gt;Normal abdominal aorta will be pulsatile not expansile&lt;/li&gt;
   &lt;li&gt;AAA will be pulsatile and expansile&lt;/li&gt;
@@ -48,7 +217,7 @@
 &lt;h1 id=&quot;common-sites-of-aaa&quot;&gt;Common sites of AAA&lt;/h1&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Aortic (infra-renal accounts for 90% of cases)&lt;/li&gt;
+  &lt;li&gt;Aortic (infra-renal accounts for 90% of cases) [&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;]&lt;/li&gt;
   &lt;li&gt;Iliac&lt;/li&gt;
   &lt;li&gt;Popliteal (accounts of 80% of all peripheral aneurysm, usually bilateral)&lt;/li&gt;
   &lt;li&gt;Femoral (can be felt as lump in the groin)&lt;/li&gt;
@@ -56,7 +225,6 @@
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;presentation&quot;&gt;Presentation&lt;/h1&gt;
-
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Unruptured AAA&lt;/strong&gt;
     &lt;ul&gt;
@@ -65,17 +233,16 @@
       &lt;li&gt;Often discovered incidentally in US or CT KUB&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ruptured AAA&lt;/strong&gt; (rupturing largely dependent on the size and rate of increase of the diameter)
+  &lt;li&gt;&lt;strong&gt;Ruptured AAA&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;Intermittent or continuous abdominal pain (radiates to back, iliac fossae, or grain  Do not confuse with renal colic)&lt;/li&gt;
+      &lt;li&gt;Intermittent/ continuous abdominal pain (with radiation to back or groin)&lt;/li&gt;
       &lt;li&gt;Collapse&lt;/li&gt;
-      &lt;li&gt;HypovolaemicShock (tachycardia, tachypnoea, sweating, syncope and collapse)&lt;/li&gt;
+      &lt;li&gt;Hypovolaemic Shock&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;differential-diagnosis&quot;&gt;Differential diagnosis&lt;/h1&gt;
-
 &lt;ul&gt;
   &lt;li&gt;Renal colic&lt;/li&gt;
   &lt;li&gt;Acute pancreatitis&lt;/li&gt;
@@ -89,7 +256,6 @@
 &lt;/blockquote&gt;
 
 &lt;h1 id=&quot;complications-of-aaa&quot;&gt;Complications of AAA&lt;/h1&gt;
-
 &lt;ul&gt;
   &lt;li&gt;Rupture (increases with age for individuals &amp;gt;65yrs)&lt;/li&gt;
   &lt;li&gt;Thrombosis/embolism
@@ -117,24 +283,37 @@
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&quot;risk-management-and-treatmentnice&quot;&gt;Risk management and treatment&lt;a href=&quot;https://www.nice.org.uk/guidance/ng156/chapter/Recommendations&quot; title=&quot;NICE AAA &quot;&gt;[NICE]&lt;/a&gt;&lt;/h1&gt;
-&lt;h2 id=&quot;low-rupture-risk&quot;&gt;Low rupture risk&lt;/h2&gt;
+&lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;//assets/images/vascular_surgery/Management_of_AAA.png&quot; alt=&quot;A flowchart diagramme of the management of Abdominal Aortic Aneurysm&quot; /&gt;&lt;/p&gt;
+&lt;figcaption class=&quot;figure-caption text-left&quot;&gt;Management of abdominal aortic aneurysm&lt;/figcaption&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;asymptomatic, aortic diameter &amp;lt;5.5cm&lt;/li&gt;
-  &lt;li&gt;3.5 - 4cm = annual check&lt;/li&gt;
-  &lt;li&gt;4 -5cm = 6-monthly check&lt;/li&gt;
-  &lt;li&gt;treat with abdominal US surveillance and aggressively optimise cardiovascular risk factors (e.g. stop smoking)
-##High rupture risk&lt;/li&gt;
-  &lt;li&gt;symptomatic, aortic diameter &amp;gt;=5.5cm or rapidly enlarging (&amp;gt;1cm/year)&lt;/li&gt;
-  &lt;li&gt;treat with&lt;/li&gt;
-  &lt;li&gt;elective endovascular repair (EVAR) is preferred over open repair
+  &lt;li&gt;Ruptured aneuryms
     &lt;ul&gt;
-      &lt;li&gt;In EVAR a stent is placed into the abdominal aorta via the femoral artery to prevent blood from collecting in the aneurysm.&lt;/li&gt;
-      &lt;li&gt;Less mortality but higher graft complication e.g. failure of stent-graft to totally exclude blood flow to the aneurysm ‘endoleak’ (lifelong CT follow-up required)&lt;/li&gt;
+      &lt;li&gt;Repair either by EVAR or Open surgery&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Definition</summary></entry><entry><title type="html">Varicocele</title><link href="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html" rel="alternate" type="text/html" title="Varicocele" /><published>2020-03-20T00:00:00+00:00</published><updated>2020-03-20T00:00:00+00:00</updated><id>http://localhost:4000/urology/2020/03/20/Urology-Varicocele</id><content type="html" xml:base="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html">&lt;ul&gt;
+  &lt;li&gt;Unruptured aneurysm
+    &lt;ul&gt;
+      &lt;li&gt;Repair if;
+        &lt;ul&gt;
+          &lt;li&gt;symptomatic&lt;/li&gt;
+          &lt;li&gt;asymptomatic, larger than 4.0 cm and has grown by more than 1 cm in 1 year&lt;/li&gt;
+          &lt;li&gt;asymptomatic and 5.5 cm or larger&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;The relevant provisions of § 2323 allow for the forfeiture of “(A) Any article, the making or trafficking of which is, prohibited under section 506 of title 17″ prohibiting “willful copyright infringement” and “(B) Any property used, or intended to be used, in any manner or part to commit or facilitate the commission of an offense referred to in subparagraph (A) &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>sal</name></author><summary type="html">Definition An artery dilatation &amp;gt;50% (X1.5) of its original diameter is called aneurysm True aneurysm: dilatation of all layers of the blood vessels False aneurysm (pseudoaneurysm): dilatation of aventitia which communicated with lumen usually following trauma Types of aneurysms are listed Berry aneurysm- bulges from one side of the artery Fusiform aneurysm- bulges from all sides of an artery Giant aneurysm- involve more than one artery. It is over 2.5 cm wide Mycotic aneurysm- caused by infected artery wall</summary></entry><entry><title type="html">Varicocele</title><link href="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html" rel="alternate" type="text/html" title="Varicocele" /><published>2020-03-20T00:00:00+00:00</published><updated>2020-03-20T00:00:00+00:00</updated><id>http://localhost:4000/urology/2020/03/20/Urology-Varicocele</id><content type="html" xml:base="http://localhost:4000/urology/2020/03/20/Urology-Varicocele.html">&lt;ul&gt;
   &lt;li&gt;A varicocele is the abnormal dilation  pampiniform plexus and the internal spermatic vein that drain blood from the testis.&lt;/li&gt;
   &lt;li&gt;Left side (90%)&amp;gt; Right side (10%)&lt;/li&gt;
   &lt;li&gt;Bilateral varicoceles may affect fertility&lt;/li&gt;
@@ -311,7 +490,21 @@ When P450 enzymes are either induced or inhibited, it can effect of the bioavail
       &lt;li&gt;Quinupristin&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Introduction Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. Many drugs can either induce or inhibit P450 family of enzymes. When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.</summary></entry><entry><title type="html">Testicular Torsion</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html" rel="alternate" type="text/html" title="Testicular Torsion" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Testicular%20Torsion</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html">&lt;p&gt;An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>sal</name></author><summary type="html">Introduction Cytochrome P450 enzymes are a large family of enzymes in the liver involved in breaking down various compounds. Many drugs can either induce or inhibit P450 family of enzymes. When P450 enzymes are either induced or inhibited, it can effect of the bioavailability of other drugs which are metabolised by it.</summary></entry><entry><title type="html">Scrotal pain- Differential diagnosis</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html" rel="alternate" type="text/html" title="Scrotal pain- Differential diagnosis" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Scrotal%20pain-%20Differential%20diagnosis</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html">&lt;blockquote&gt;
+  &lt;p&gt;REMEMBER: Pain in the scrotum could also include pain in the testes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Testicular torsion&lt;/li&gt;
+  &lt;li&gt;Epididymo-orchitis&lt;/li&gt;
+  &lt;li&gt;Inguinal hernia&lt;/li&gt;
+  &lt;li&gt;Haematocele&lt;/li&gt;
+  &lt;li&gt;Epididymal cyst/spermatocele&lt;/li&gt;
+  &lt;li&gt;Testicular cancer&lt;/li&gt;
+  &lt;li&gt;Squamous cell carcinoma of the scrotum&lt;/li&gt;
+  &lt;li&gt;Varicocele (rarely painful)&lt;/li&gt;
+  &lt;li&gt;Hydrocele (rarely painful)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>jane</name></author><category term="Differential Diagnosis" /><summary type="html">REMEMBER: Pain in the scrotum could also include pain in the testes.</summary></entry><entry><title type="html">Testicular Torsion</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html" rel="alternate" type="text/html" title="Testicular Torsion" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Testicular%20Torsion</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Testicular-Torsion.html">&lt;p&gt;An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)&lt;/p&gt;
 
 &lt;h1 id=&quot;history&quot;&gt;History&lt;/h1&gt;
 
@@ -353,21 +546,7 @@ When P450 enzymes are either induced or inhibited, it can effect of the bioavail
 
 &lt;ul&gt;
   &lt;li&gt;Consent for ?bilater orchidectomy + bilateral orchidoplexy (fixation)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)</summary></entry><entry><title type="html">Scrotal pain- Differential diagnosis</title><link href="http://localhost:4000/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html" rel="alternate" type="text/html" title="Scrotal pain- Differential diagnosis" /><published>2019-09-28T00:00:00+01:00</published><updated>2019-09-28T00:00:00+01:00</updated><id>http://localhost:4000/urology/2019/09/28/Urology-%20Scrotal%20pain-%20Differential%20diagnosis</id><content type="html" xml:base="http://localhost:4000/urology/2019/09/28/Urology-Scrotal-pain-Differential-diagnosis.html">&lt;blockquote&gt;
-  &lt;p&gt;REMEMBER: Pain in the scrotum could also include pain in the testes.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Testicular torsion&lt;/li&gt;
-  &lt;li&gt;Epididymo-orchitis&lt;/li&gt;
-  &lt;li&gt;Inguinal hernia&lt;/li&gt;
-  &lt;li&gt;Haematocele&lt;/li&gt;
-  &lt;li&gt;Epididymal cyst/spermatocele&lt;/li&gt;
-  &lt;li&gt;Testicular cancer&lt;/li&gt;
-  &lt;li&gt;Squamous cell carcinoma of the scrotum&lt;/li&gt;
-  &lt;li&gt;Varicocele (rarely painful)&lt;/li&gt;
-  &lt;li&gt;Hydrocele (rarely painful)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>jane</name></author><category term="Differential Diagnosis" /><summary type="html">REMEMBER: Pain in the scrotum could also include pain in the testes.</summary></entry><entry><title type="html">Differential diagnosis: Interstitial Lung Disease</title><link href="http://localhost:4000/ddx-interstitial_lung_disease" rel="alternate" type="text/html" title="Differential diagnosis: Interstitial Lung Disease" /><published>2019-09-09T00:00:00+01:00</published><updated>2019-09-09T00:00:00+01:00</updated><id>http://localhost:4000/ddx-Interstitial_Lung_disease</id><content type="html" xml:base="http://localhost:4000/ddx-interstitial_lung_disease">&lt;h1 id=&quot;what-is-pulmonary-fibrosis&quot;&gt;What is Pulmonary fibrosis?&lt;/h1&gt;
+&lt;/ul&gt;</content><author><name>Tausif</name></author><summary type="html">An urological emergency! Have an high index of suspicion especially in young males (but can be of any age). If history and examination is suggestive of testicular torsion, then immediately consider surgery for exploration and/or repair (do not delay this by doing any further diagnostic tests)</summary></entry><entry><title type="html">Differential diagnosis: Interstitial Lung Disease</title><link href="http://localhost:4000/ddx-interstitial_lung_disease" rel="alternate" type="text/html" title="Differential diagnosis: Interstitial Lung Disease" /><published>2019-09-09T00:00:00+01:00</published><updated>2019-09-09T00:00:00+01:00</updated><id>http://localhost:4000/ddx-Interstitial_Lung_disease</id><content type="html" xml:base="http://localhost:4000/ddx-interstitial_lung_disease">&lt;h1 id=&quot;what-is-pulmonary-fibrosis&quot;&gt;What is Pulmonary fibrosis?&lt;/h1&gt;
 &lt;p&gt;Pulmonary fibrosis = Interstitial lung disease —&amp;gt; abnormal and excessive deposition of fibres in lung parenchyma —&amp;gt; abnormal gas transfer&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -393,115 +572,4 @@ When P450 enzymes are either induced or inhibited, it can effect of the bioavail
   &lt;li&gt;Drugs: Bleomycin, Nitrofurantoin and Amiodarone&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;</content><author><name>sal</name></author><category term="Differential Diagnosis" /><summary type="html">What is Pulmonary fibrosis? Pulmonary fibrosis = Interstitial lung disease —&amp;gt; abnormal and excessive deposition of fibres in lung parenchyma —&amp;gt; abnormal gas transfer</summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumonia" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-08-18T00:00:00+01:00</published><updated>2019-08-18T00:00:00+01:00</updated><id>http://localhost:4000/management%20of%20pneumonia-Resp</id><content type="html" xml:base="http://localhost:4000/pneumonia">&lt;h1 id=&quot;introduction&quot;&gt;INTRODUCTION&lt;/h1&gt;
-&lt;p&gt;An acute lower respiratory tract infection with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Lifestyle:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;↓Alcohol and tobacco&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;H.pylori eradication (as above):&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Triple therapy is 80–85% effective at eradication&lt;/li&gt;
-      &lt;li&gt;Drugs to reduce acid:&lt;/li&gt;
-      &lt;li&gt;PPIs are effective, eg lansoprazole 30mg/24h PO for 4 weeks (DU) or 8 weeks (GU)&lt;/li&gt;
-      &lt;li&gt;H2 blockers have a place (ranitidine 300mg each night PO for 8wks)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Drug-induced ulcers:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Stop drug if possible&lt;/li&gt;
-      &lt;li&gt;PPIs may be best for treating and preventing GI ulcers and bleeding in patients on NSAIDs or antiplatelet drugs&lt;/li&gt;
-      &lt;li&gt;Misoprostol is an alternative with different SE&lt;/li&gt;
-      &lt;li&gt;If symptoms persist, re-endoscope, retest for H.pylori, and reconsider differential diagnoses (eg gallstones).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h1 id=&quot;signs-and-symptoms&quot;&gt;Signs and Symptoms&lt;/h1&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h2 id=&quot;signs&quot;&gt;Signs&lt;/h2&gt;
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;management&quot;&gt;Management&lt;/h1&gt;
-&lt;div class=&quot;alert-primary&quot;&gt;
-  &lt;p&gt;This is a note callout. You can use these to provide important information on a topic.&lt;/p&gt;
-  &lt;p&gt;You must follow a &lt;a href=&quot;http://www.php-fig.org/psr/psr-4/&quot;&gt;PSR-4 compliant&lt;/a&gt; structure when building a module.&lt;/p&gt;
-&lt;/div&gt;</content><author><name>sal</name></author><summary type="html">INTRODUCTION An acute lower respiratory tract infection with fever, symptoms and signs in the chest, and abnormalities on the chest x-ray</summary></entry><entry><title type="html">Powerful things you can do with the Markdown editor</title><link href="http://localhost:4000/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor.html" rel="alternate" type="text/html" title="Powerful things you can do with the Markdown editor" /><published>2019-02-03T00:00:00+00:00</published><updated>2019-02-03T00:00:00+00:00</updated><id>http://localhost:4000/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor</id><content type="html" xml:base="http://localhost:4000/jekyll/tutorial/2019/02/03/powerful-things-markdown-editor.html">&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
-
-&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
-
-&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
-
-&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
-  &lt;li&gt;==highlight==&lt;/li&gt;
-  &lt;li&gt;*escaped characters*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
-
-&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.my-link {
-    text-decoration: underline;
-}
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;//assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
-
-&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
-
-&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
-
-&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
-
-&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</content><author><name>jane</name></author><category term="summer" /><summary type="html">There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=750&amp;q=80" /></entry><entry><title type="html">The first mass-produced book to deviate from a rectilinear format</title><link href="http://localhost:4000/tutorial/2019/02/02/first-mass-produced.html" rel="alternate" type="text/html" title="The first mass-produced book to deviate from a rectilinear format" /><published>2019-02-02T00:00:00+00:00</published><updated>2019-02-02T00:00:00+00:00</updated><id>http://localhost:4000/tutorial/2019/02/02/first-mass-produced</id><content type="html" xml:base="http://localhost:4000/tutorial/2019/02/02/first-mass-produced.html">&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
-
-&lt;p&gt;To deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
-
-&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
-
-&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;</content><author><name>sal</name></author><category term="featured" /><summary type="html">The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/17.jpg" /></entry></feed>
+&lt;hr /&gt;</content><author><name>sal</name></author><category term="Differential Diagnosis" /><summary type="html">What is Pulmonary fibrosis? Pulmonary fibrosis = Interstitial lung disease —&amp;gt; abnormal and excessive deposition of fibres in lung parenchyma —&amp;gt; abnormal gas transfer</summary></entry></feed>
