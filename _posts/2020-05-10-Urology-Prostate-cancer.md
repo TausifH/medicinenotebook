@@ -48,7 +48,7 @@ categories: [ Urology ]
     - Lethargy (anaemia, uraemia).
     - Weight loss, cachexia.
 
-# Signs:
+# Signs
 - Look for red-flag symptoms in advanced disease:
     - General malaise
     - Bone pain (due to metastasis)
@@ -100,7 +100,7 @@ Urology MDT should risk stratify localised disease (T1-T2) as follows:
 
 # Management
 ## Overview
-![A flowchart diagramme of the management of prostate cancer according to the UK NICE guideline]({{ site.baseurl }}/assets/images/vascular_surgery/Management_of_AAA.png)
+![A flowchart diagramme of the management of prostate cancer according to the UK NICE guideline]({{ site.baseurl }}/assets/images/urology/management-of-prostate-cancer.png)
 <figcaption class="figure-caption text-left">Management of Prostate cancer according to the UK NICE guideline</figcaption>
 
 ## Conservative
