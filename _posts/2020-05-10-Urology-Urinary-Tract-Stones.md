@@ -138,6 +138,7 @@ If >5mm and pain not resolving
   </tr>
 </tbody>
 </table>
+
 - ** Indication **
     - Ureteric obstruction + infection = surgical emergency
     - more than 10mm stone burden
@@ -159,5 +160,3 @@ If >5mm and pain not resolving
 - Percutaneous Nephrolithotomy (PCNL)
     - accessed the renal system percutaneously
     - Stone fragmented and removed
-
-<
