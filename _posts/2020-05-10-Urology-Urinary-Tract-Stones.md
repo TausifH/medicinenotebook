@@ -138,7 +138,7 @@ If >5mm and pain not resolving
   </tr>
 </tbody>
 </table>
-- Indication
+- ** Indication **
     - Ureteric obstruction + infection = surgical emergency
     - more than 10mm stone burden
     - Infection
