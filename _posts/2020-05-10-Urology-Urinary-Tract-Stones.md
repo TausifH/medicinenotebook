@@ -160,8 +160,12 @@ If >5mm and pain not resolving
     - accessed the renal system percutaneously
     - Stone fragmented and removed
 
+<div class="table-bordered>
+
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+</div>
