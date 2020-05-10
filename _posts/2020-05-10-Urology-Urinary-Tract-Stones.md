@@ -102,7 +102,7 @@ If >5mm and pain not resolving
 - Most pass within 48 hours (>80% in 30 days)
 
 ## Active stone removal
-```markdown
+
 | Size                       | Renal stone           | Ureteric stone        |
 |----------------------------|-----------------------|-----------------------|
 | <5mm and asymptomatic      | Expectant management  | Expectant management  |
@@ -110,11 +110,10 @@ If >5mm and pain not resolving
 | 5-10mm and pregnant or AAA | Ureteroscopy          | Ureteroscopy          |
 | 10-20mm                    | ESWL or Ureteroscopy  | ESWL or Ureteroscopy  |
 | >20mm                      | PCNL                  | Ureteroscpy           |
-```
 
 - Indication
     - Ureteric obstruction + infection = surgical emergency
-    - >10mm stone burden
+    - more than 10mm stone burden
     - Infection
     - Unresolving obstruction
     - Renal insufficiency
