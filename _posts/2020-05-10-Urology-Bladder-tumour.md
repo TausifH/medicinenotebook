@@ -115,7 +115,7 @@ permalink: "/bladder-tumour"
 - Distant disease by CT scanning.
 - Nodes of uncertain significance by PET CT
 
-# 3 main prognostic groups
+# Main prognostic groups
 - Low-grade proliferative lesions that develop into non-muscle invasive tumours (~80%)
 - Highly proliferative invasive tumours with a propensity to metastasise (high risk also of recurrence and progression)
 - Carcinoma in situ- which can penetrate the lamina propria and eventually progress
