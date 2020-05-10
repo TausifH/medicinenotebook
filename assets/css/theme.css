@@ -697,8 +697,8 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
-.table-striped tbody tr:nth-of-type(odd) {
-	background-color: rgba(0, 0, 0, 0.05); }
+table .table-bordered
+}
 
 /*
 blockquote {
