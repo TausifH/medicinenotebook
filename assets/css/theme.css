@@ -697,7 +697,8 @@ article blockquote:before {
 	float:left;
 	line-height:1;
 }
-table .table-bordered
+table {
+	border: solid #16181b
 }
 
 /*
