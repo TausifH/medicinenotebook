@@ -3,7 +3,7 @@ layout: post
 title:  "Hydrocele"
 description: "Hydrocele, typical history of a patient with hydrocele, examination of hydrocele, investigations for hydrocele, differential diagnosis of scrotal swelling, management of hydrocele"
 categories: [ Urology ]
-permalink:"/hydrocele"
+permalink: "/hydrocele"
 ---
 
 # Key facts
