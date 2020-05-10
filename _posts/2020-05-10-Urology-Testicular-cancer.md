@@ -63,7 +63,7 @@ permalink: "/testicular-cancer"
 - Most common cause of a **testicular mass in males > 60 years old**; often **bilateral**
 - Usually of **diffuse large B-cell type**
 
-# **Staging:**
+# Staging
 - Stage 1: No evidence of metastasis
 - Stage 2: Infradiaphragmatic node involvement (spread via para-aortic nodes)
 - Stage 3: Supradiaphragmatic node involvement

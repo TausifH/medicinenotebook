@@ -9,7 +9,7 @@ permalink: "/bladder-tumour"
 # Epidemiology
 2nd most common. It most commonly affects males aged between 50 and 80 years of age. Those who are current, or previous (within 20 years), smokers have a 2-5 fold increased risk of the disease.   
 
-# **Pathology**
+# Pathology
 - **Histology (cell type)**
     - Transitional cell carcinoma TCC (>90% of cases) NB most have papillary pattern
     - Squamous cell carcinoma SCC ( 1-7%)
@@ -20,7 +20,7 @@ permalink: "/bladder-tumour"
     - Nodular
 > Papillary TCC is the most common histopathological diagnosis
 
-# **Risk factors:**
+# Risk factors:
 - Risk factors for transitional cell carcinoma of the bladder:
     - Smoking
     - Exposure to aniline dyes in the printing and textile industry: examples are 2-naphthylamine and benzidine
@@ -31,12 +31,12 @@ permalink: "/bladder-tumour"
     - Calmette-Guérin (BCG) treatment
     - Smoking
 
-# **Presentation**
+# Presentation
 - Gross painless haematuria (in 85% of patients)
 - Haematuria can be microscopic (typically seen in females)
 - Symptoms of bladder irritation- dysuria, frequency and urgency
 
-# **TNM Staging**
+# TNM Staging
 
 <table class="table table-striped">
 <thead>
@@ -109,18 +109,18 @@ permalink: "/bladder-tumour"
 </tbody>
 </table>
 
-# **Staging**
+# Staging
 - Most will undergo a cystoscopy and biopsies or TURBT, this provides histological diagnosis and information relating to depth of invasion.
 - Local spread by MRI
 - Distant disease by CT scanning.
 - Nodes of uncertain significance by PET CT
 
-# **3 main prognostic groups**
+# 3 main prognostic groups
 - Low-grade proliferative lesions that develop into non-muscle invasive tumours (~80%)
 - Highly proliferative invasive tumours with a propensity to metastasise (high risk also of recurrence and progression)
 - Carcinoma in situ- which can penetrate the lamina propria and eventually progress
 
-# **Management**
+# Management
 - **Tis/Ta/T1 (non-muscle invasive)**
     - TURBT
     - Intravesical BCG
@@ -133,7 +133,7 @@ permalink: "/bladder-tumour"
     - Palliative chemo/radiotherapy
     - Long term catheter
 
-    # Follow up cystoscopy
+# Follow up cystoscopy
     - Low risk non-muscle invasive bladder cancer: @ 3 months and 12 months after diagnosis
     - Intermediate risk non-muscle invasive: @ 3, 9, 18 months and once a year thereafter
     - High risk non-muslce invasive: @ 3 months for 2 years, 6 monthly for 2 years and once a year thereafter
