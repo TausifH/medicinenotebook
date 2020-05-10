@@ -102,6 +102,13 @@ If >5mm and pain not resolving
 - Most pass within 48 hours (>80% in 30 days)
 
 ## Active stone removal
+- **Indication**
+    - Ureteric obstruction + infection = surgical emergency
+    - more than 10mm stone burden
+    - Infection
+    - Unresolving obstruction
+    - Renal insufficiency
+
 <table class="table table-bordered table-striped">
 <thead>
   <tr>
@@ -139,24 +146,18 @@ If >5mm and pain not resolving
 </tbody>
 </table>
 
-- ** Indication **
-    - Ureteric obstruction + infection = surgical emergency
-    - more than 10mm stone burden
-    - Infection
-    - Unresolving obstruction
-    - Renal insufficiency
-- Surgical emergency
+- **Surgical emergency**
     - Ureteric obstruction + infection
     - aim is to decompress the system
     - Nephrostomy tube or Ureteric stent aka JJ stent aka Double J stent
-- Exracorporeal shockwave lithrotripsy (ESWL)
+- **Exracorporeal shockwave lithrotripsy (ESWL)**
     - external shockwave cause stone fragmentation by cavitation bubbles and mechanical stress
     - uncomfortbale  for patient
     - CI: Pregnancy, AAA
-- Ureteroscopy
+- **Ureteroscopy**
     - Ureteroscope passed retrograde through urethra and bladder into ureter
     - Stone fragmented by laser or pneumatic fragmentation
     - Stent can be placed
-- Percutaneous Nephrolithotomy (PCNL)
+- **Percutaneous Nephrolithotomy (PCNL)**
     - accessed the renal system percutaneously
     - Stone fragmented and removed
