@@ -102,7 +102,7 @@ If >5mm and pain not resolving
 - Most pass within 48 hours (>80% in 30 days)
 
 ## Active stone removal
-<table>
+<table class="table table-bordered">>
 <thead>
   <tr>
     <th>Size</th>
