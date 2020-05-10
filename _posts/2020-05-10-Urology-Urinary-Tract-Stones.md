@@ -102,7 +102,7 @@ If >5mm and pain not resolving
 - Most pass within 48 hours (>80% in 30 days)
 
 ## Active stone removal
-<table class="table table-bordered">>
+<table class="table table-bordered table-striped">
 <thead>
   <tr>
     <th>Size</th>
@@ -160,12 +160,4 @@ If >5mm and pain not resolving
     - accessed the renal system percutaneously
     - Stone fragmented and removed
 
-<table class="table table-bordered>
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-</table>
+<
