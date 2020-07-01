@@ -6,7 +6,7 @@ categories: [ Gastroenterology ]
 ---
 # Differential diagnosis of diarrhoea without blood in gastroenteritis
 
-<table class="table-dark">
+<table class="table-bordered">
 <thead>
   <tr>
     <th>   <br>Infective agent   </th>
