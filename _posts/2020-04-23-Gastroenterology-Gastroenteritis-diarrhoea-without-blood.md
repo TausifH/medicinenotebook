@@ -85,3 +85,5 @@ categories: [ Gastroenterology ]
   <tr>
     <td>   <br>Botulism   </td>
     <td>   <br>18-36 hrs   </td>
+
+</table>
