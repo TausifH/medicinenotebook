@@ -7,13 +7,52 @@ categories: [ Gastroenterology ]
 # Differential diagnosis of diarrhoea without blood in gastroenteritis
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-btxf{background-color:#f9f9f9;border-color:inherit;text-align:left;vertical-align:top}
+table. {
+  border: 1px solid #000000;
+  background-color: #FFFFFF;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table. td, table. th {
+  border: 1px solid #AAAAAA;
+  padding: 3px 2px;
+}
+table. tbody td {
+  font-size: 13px;
+}
+table. tr:nth-child(even) {
+  background: #EEF5F2;
+}
+table. thead {
+  background: #1C6EA4;
+  background: -moz-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: -webkit-linear-gradient(top, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  background: linear-gradient(to bottom, #5592bb 0%, #327cad 66%, #1C6EA4 100%);
+  border-bottom: 2px solid #444444;
+}
+table. thead th {
+  font-size: 15px;
+  font-weight: bold;
+  color: #FFFFFF;
+  border-left: 2px solid #D0E4F5;
+}
+table. thead th:first-child {
+  border-left: none;
+}
+
+table. tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
 </style>
-<table class="tg">
+<table>
 <thead>
   <tr>
     <th class="tg-0pky">   <br>Infective agent   </th>
