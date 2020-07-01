@@ -5,7 +5,7 @@ description: differential diagnosis of diarrhoea without blood, gastroenteritis
 categories: [ Gastroenterology ]
 ---
 # Differential diagnosis of diarrhoea without blood in gastroenteritis
-
+<table class="table-dark> 
 |     Infective agent                                  |     Incubation               |     Characteristic                                                                                                                                                                                                      |     Presentation                                                                                                                          |     Diagnosis                                    |     Treatment                                                                                         |
 |------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 |     Norovirus (also known as Norwalk virus)          |     12-48 hrs                |     Common more in adults than children. Highly   infectious from infected people, food, environment                                                                                                                    |     Acute-onset   vomiting, watery diarrhoea, cramps, nausea lasting 1-3 days                                                             |     clinical, stool PCR,   enzyme immunoassay    |     Supportive as self-limiting                                                                       |
@@ -18,6 +18,6 @@ categories: [ Gastroenterology ]
 |     Vibrio para     haemolyticus                     |     16-72 hrs                |     By eating   questionable seafood                                                                                                                                                                                    |                                                                                                                                           |     Stool microscopy and culture                 |     Supportive.   Antibiotic has a role                                                               |
 |     Botulism                                         |     18-36 hrs                |     By eating   questionable canned food                                                                                                                                                                                |     Diarrhoea, abdominal     cramps, dry mouth,   diplopia, progressive paralysis                                                         |     Serum/faecal C. Bolulinum toxin              |     Manage in ITU with   mechanical ventilation                                                       |
 
-
+</table>
 
 
