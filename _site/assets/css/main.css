@@ -7333,7 +7333,9 @@ a.text-lightblue:hover, a.text-lightblue:focus {
       padding: 3px 2px; }
   .table-bordered th,
   .table-bordered td {
-    border: 1px solid #dee2e6 !important; }
+    border: 1px solid #dee2e6 !important; 
+    padding:10px 5px
+    word-break: normal; 
   .table-dark {
     color: inherit; }
     .table-dark th,
