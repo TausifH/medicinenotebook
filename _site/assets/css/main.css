@@ -7322,11 +7322,15 @@ a.text-lightblue:hover, a.text-lightblue:focus {
   .badge {
     border: 1px solid #000; }
   .table {
+    border: 1px solid #000000;
+    background-color: #ffffff;
+    text-align: left;
     border-collapse: collapse !important; }
     .table td,
     .table th {
-      background-color: #fff !important; }
-      border: 1px solid #dee2e6 !important; }
+      background-color: #fff !important;
+      border: 1px solid #dee2e6 !important; 
+      padding: 3px 2px; }
   .table-bordered th,
   .table-bordered td {
     border: 1px solid #dee2e6 !important; }
