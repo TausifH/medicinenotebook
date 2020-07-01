@@ -7325,7 +7325,8 @@ a.text-lightblue:hover, a.text-lightblue:focus {
     border: 1px solid #000000;
     background-color: #ffffff;
     text-align: left;
-    border-collapse: collapse !important; }
+    border-collapse: collapse !important; 
+    font-size: 15px }
     .table td,
     .table th {
       background-color: #fff !important;
