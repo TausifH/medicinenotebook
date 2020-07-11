@@ -6,10 +6,9 @@ categories: [ Gastroenterology ]
 ---
 
 
-<table>
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |ventilation                                                       |
 
-</table>
