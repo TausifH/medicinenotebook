@@ -4,6 +4,51 @@ title:  "Gastroenteritis- Diarrhoea without blood"
 description: differential diagnosis of diarrhoea without blood, gastroenteritis
 categories: [ Gastroenterology ]
 ---
+
+<style type='text/css>
+table {
+    border-spacing:0;//remove spaces between cells
+    margin: 15px 0;
+    padding: 0; 
+}
+  
+table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; 
+}
+
+//show different color between rows
+table tr:nth-child(2n) {
+    background-color: #D0E4F5; 
+}
+    
+table tr th {
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px; 
+}
+    
+table tr td {
+    border: 1px solid #cccccc;
+    text-align: left;
+    margin: 0;
+    padding: 6px 13px; 
+}
+    
+table tr th :first-child, table tr td :first-child {
+    margin-top: 0; 
+}
+    
+table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0; 
+}
+</style> 
+
+<table>
 |     Infective agent                                  |     Incubation               |     Characteristic                                                                                                                                                                                                      |     Presentation                                                                                                                          |     Diagnosis                                    |     Treatment                                                                                         |
 |------------------------------------------------------|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 |     Norovirus (also known as Norwalk virus)          |     12-48 hrs                |     Common more in adults than children. Highly   infectious from infected people, food, environment                                                                                                                    |     Acute-onset   vomiting, watery diarrhoea, cramps, nausea lasting 1-3 days                                                             |     clinical, stool PCR,   enzyme immunoassay    |     Supportive as self-limiting                                                                       |
@@ -15,3 +60,5 @@ categories: [ Gastroenterology ]
 |     Bacillus cereus                                  |     <6 hrs                   |     By eating   questionable rice. Characterised by marked vomiting                                                                                                                                                     |     Diarrhoea and   vomiting                                                                                                              |     Stool microscopy and culture                 |     Supportive                                                                                        |
 |     Vibrio para     haemolyticus                     |     16-72 hrs                |     By eating   questionable seafood                                                                                                                                                                                    |                                                                                                                                           |     Stool microscopy and culture                 |     Supportive.   Antibiotic has a role                                                               |
 |     Botulism                                         |     18-36 hrs                |     By eating   questionable canned food                                                                                                                                                                                |     Diarrhoea, abdominal     cramps, dry mouth,   diplopia, progressive paralysis                                                         |     Serum/faecal C. Bolulinum toxin              |     Manage in ITU with   mechanical ventilation                                                       |
+
+</table>

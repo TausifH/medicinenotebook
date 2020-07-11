@@ -189,7 +189,7 @@ svg {
   overflow: hidden;
   vertical-align: middle; }
 
-  table {
+table {
   border-spacing:0;//remove spaces between cells
   margin: 15px 0;
   padding: 0; }
