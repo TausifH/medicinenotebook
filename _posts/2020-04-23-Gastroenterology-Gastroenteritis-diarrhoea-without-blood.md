@@ -5,7 +5,7 @@ description: differential diagnosis of diarrhoea without blood, gastroenteritis
 categories: [ Gastroenterology ]
 ---
 
-
+<div class="table-responsive">
 <table class="table table-bordered table-striped">
 
 <thead>
@@ -95,3 +95,4 @@ categories: [ Gastroenterology ]
 
 
 </table>
+</div>
