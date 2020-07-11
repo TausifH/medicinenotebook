@@ -108,7 +108,7 @@ Atelactasis- aka lung collapse
   </div>  
 </div>
 
-<div class="alert alert-dark" role="alert">
+<div class="alert alert-primary" role="alert">
   Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor,
 </div>
 
