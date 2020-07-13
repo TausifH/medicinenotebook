@@ -7,7 +7,7 @@ categories: [ Cardiology ]
 
 # Coronary arteries 
 <img src="{{ site.baseurl }}/assets/images/cardiology/cardiology-coronary-arteries.png" alt="Coronary arteries" class="img-thumbnail"> 
-<figcaption class="figure-caption text-left">Coronary arteries</figcaption>
+<figcaption class="figure-caption alert-gray text-left">Coronary arteries</figcaption>
 
 # ECG changes in MI and corresponding arterial territories 
 <table style="font-size: 15px !important;" class="table table-bordered table-striped">
