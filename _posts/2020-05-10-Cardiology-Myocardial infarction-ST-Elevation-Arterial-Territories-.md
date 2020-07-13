@@ -5,7 +5,7 @@ description: "Myocardial Infarction- ST elevation arterial territoreis and ECG l
 categories: [ Cardiology ]
 ---
 
-<table class="table table-bordered table-striped">
+<table style="font-size=12px;!important" class="table table-bordered table-striped">
 <thead>
   <tr>
     <th>Wall</th>
