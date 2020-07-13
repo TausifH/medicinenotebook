@@ -10,7 +10,7 @@ categories: [ Cardiology ]
 <figcaption class="figure-caption text-left">Coronary arteries</figcaption>
 
 # ECG changes in MI and corresponding arterial territories 
-<table style="font-size: 12px !important" class="table table-bordered table-striped">
+<table style="font-size: 15px !important;" class="table table-bordered table-striped">
 <thead>
   <tr>
     <th>Wall</th>
