@@ -70,12 +70,12 @@ permalink: "/testicular-cancer"
 - Stage 4: Lung involvement (haematogenous)
 
 # Management
-- **Rx of SGCTs**
-    - Orchidectomy
+- **SGCT**
+    - Orchidectomy (via inguinal approach to prevent lymphatic spread)
     - Extremely radiosensitive
     - NOTE: orchidectomy and radiotherapy cures 95% in stage 1
-- **Rx of NSGCTs**
-    - Orchidectomy
-    - 3 cycles of Bleomycin + etoposide + cisplatin
+- **NSGCT**
+    - Orchidectomy (inguinal approach)
+    - 3 cycles of Bleomycin + Etoposide + Cisplatin
 - **Follow-up**
     - Do close follow up using biomarkers, reviews and self-examination
