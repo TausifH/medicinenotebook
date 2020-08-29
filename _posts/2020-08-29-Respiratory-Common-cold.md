@@ -50,4 +50,4 @@ tags: [ GeneralPractice, URTI ]
         - Oral decongestion
 
 
-<a tabindex="0"  data-toggle="popover" data-trigger="focus" title="Group A Beta Haemolytic Streptococcus" data-content="carriers 1-5% esp. in children">Group A Beta Haemolytic Streptococcus</a>
+<a href="#" tabindex="0"  data-toggle="popover" data-trigger="focus" title="Group A Beta Haemolytic Streptococcus" data-content="carriers 1-5% esp. in children">Group A Beta Haemolytic Streptococcus</a>
