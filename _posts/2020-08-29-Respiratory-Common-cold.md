@@ -36,7 +36,6 @@ tags: [ GeneralPractice, URTI ]
 - A mild cough may persist for 3 weeks
 
 # Treatment
-
 - Self-limiting
 - Antibiotic does not have
 - Symptomatic relief 
@@ -49,3 +48,6 @@ tags: [ GeneralPractice, URTI ]
     - Medical
         - Intra-nasal decongestion
         - Oral decongestion
+
+
+<a tabindex="0"  data-toggle="popover" data-trigger="focus" title="Group A Beta Haemolytic Streptococcus" data-content="carriers 1-5% esp. in children">Group A Beta Haemolytic Streptococcus</a>
