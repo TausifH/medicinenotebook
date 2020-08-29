@@ -51,3 +51,9 @@ tags: [ GeneralPractice, URTI ]
 
 
 <a href="#" data-toggle="popover" data-trigger="focus" title="Group A Beta Haemolytic Streptococcus" data-content="carriers 1-5% esp. in children">Group A Beta Haemolytic Streptococcus</a>
+
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover();   
+});
+</script>
