@@ -31,7 +31,6 @@ tags: [ GeneralPractice, URTI ]
 - Centor/Fever-PAIN can be used to determine the likelihood of GAS
 
 # Scoring
-
 Two scoring systems exist to determine the likelihood of streptococcal infection 
 
 - Centor scoring
