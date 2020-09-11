@@ -30,7 +30,7 @@ tags: [ GeneralPractice ]
 - PMH and/or FH of atopy
 - Reduced peak expiratory flow rate (PEFR)
 
-# Investigations:
+# Investigations
 - A Peak flow charts: A diurnal variation of >20% on >/=3d a week for 2 weeks
 - Lung function tests: FEV1/FVC <0.7; Reversibility testing with bronchodilators (>/=15% improvement in FEV1)
 - CXR: to exclude chest infection (if signs present)or pneumothorax in acute exacerbation
@@ -42,7 +42,7 @@ tags: [ GeneralPractice ]
     - Indirect challenges – e.g. exercise challenge
     - Sputum eosinophil count
 
-    # Management of asthma [NICE 2020](https://cks.nice.org.uk/topics/asthma/management/newly-diagnosed-asthma/)[BTS/SIGN 2019](https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-guideline-for-the-management-of-asthma-2019/)
+    # Management of asthma
     ## Non-pharmacological management
     - Self-management plan
     - Allergen avoidance
