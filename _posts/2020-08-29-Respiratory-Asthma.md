@@ -62,4 +62,4 @@ tags: [ GeneralPractice ]
 - High dose ICS as fixed regime or muscurinic receptor antagonists or Theophylline and consider specialist referral
 
 
-<div class="bd-callout bd-callout-info"> <i class="fas fa-info fa-3x"></i> <br><br>Comprise of 3 components: 1) Reversible and variable airflow obstruction 2) Airway hyper-responsiveness to stimuli e.g. cold, air, irritants, pollutants) and 3) Inflammation of the bronchi </div>
+<div class="p-3 mb-2 bg-info text-dark rounded"> <i class="fas fa-info fa-3x"></i> <br><br>Comprise of 3 components: 1) Reversible and variable airflow obstruction 2) Airway hyper-responsiveness to stimuli e.g. cold, air, irritants, pollutants) and 3) Inflammation of the bronchi </div>
