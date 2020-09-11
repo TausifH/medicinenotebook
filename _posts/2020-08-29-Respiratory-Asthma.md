@@ -42,6 +42,8 @@ tags: [ GeneralPractice ]
     - Indirect challenges – e.g. exercise challenge
     - Sputum eosinophil count
 
+# <div class="p-3 mb-2 bg-info text-white">Management of asthma</div>
+
 # Management of asthma
 ## Non-pharmacological management
 - Self-management plan
