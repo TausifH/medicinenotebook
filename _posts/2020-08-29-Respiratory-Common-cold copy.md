@@ -42,7 +42,7 @@ tags: [ GeneralPractice ]
     - Indirect challenges – e.g. exercise challenge
     - Sputum eosinophil count
 
-    # Management of asthma <sup>[NICE 2020](https://cks.nice.org.uk/topics/asthma/management/newly-diagnosed-asthma/)[BTS/SIGN 2019](https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-guideline-for-the-management-of-asthma-2019/)</sup>
+    # Management of asthma [NICE 2020](https://cks.nice.org.uk/topics/asthma/management/newly-diagnosed-asthma/)[BTS/SIGN 2019](https://www.brit-thoracic.org.uk/document-library/guidelines/asthma/btssign-guideline-for-the-management-of-asthma-2019/)
     ## Non-pharmacological management
     - Self-management plan
     - Allergen avoidance
