@@ -38,7 +38,7 @@ tags: [ GeneralPractice ]
 - **Further investigations**
     - Methacoline PC20 challenge– the provocative concentration of methacholine required to cause a 20% fall in FEv1 (if lung function test inconclusive)
     - Histamine challenge
-    - Fractional exhaled Nitric Oxide (FeNO)– measured exhaled NO concentration; high level thought to be related to eosinophilic lung inflammation <a class="text-dark" href="https://www.pcrs-uk.org/sites/pcrs-uk.org/files/pcru/articles/2019-Autumn-Issue-18-FeNo-testing-asthma-diagnosis.pdf">PRCS consensus 2019</a>
+    - Fractional exhaled Nitric Oxide (FeNO)– measured exhaled NO concentration; high level thought to be related to eosinophilic lung inflammation <a class="text-purple" href="https://www.pcrs-uk.org/sites/pcrs-uk.org/files/pcru/articles/2019-Autumn-Issue-18-FeNo-testing-asthma-diagnosis.pdf">PRCS consensus 2019</a>
     - Indirect challenges – e.g. exercise challenge
     - Sputum eosinophil count
 
