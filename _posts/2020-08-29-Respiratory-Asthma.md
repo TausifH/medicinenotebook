@@ -42,8 +42,6 @@ tags: [ GeneralPractice ]
     - Indirect challenges – e.g. exercise challenge
     - Sputum eosinophil count
 
-# <div class="p-3 mb-2 bg-info text-white">Management of asthma</div>
-
 # Management of asthma
 ## Non-pharmacological management
 - Self-management plan
@@ -62,3 +60,6 @@ tags: [ GeneralPractice ]
 - Low dose MART (Maintenance And Reliever Therapy) contains low dose ICS and short-acting LABA +/- LRTA
 - Moderate dose MART +/- LRTA OR Fixed dose ICS + LABA +SABA
 - High dose ICS as fixed regime or muscurinic receptor antagonists or Theophylline and consider specialist referral
+
+
+<div class="p-3 mb-2 bg-info text-white"> Comprise of 3 components: 1) Reversible and variable airflow obstruction 2) Airway hyper-responsiveness to stimuli e.g. cold, air, irritants, pollutants) and 3) Inflammation of the bronchi </div>
