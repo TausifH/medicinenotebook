@@ -44,19 +44,19 @@ tags: [ GeneralPractice ]
 
 # Management of asthma
 ## Non-pharmacological management
-    - Self-management plan
-    - Allergen avoidance
-    - Smoking cessation and weight loss
-    - Immunisations
+- Self-management plan
+- Allergen avoidance
+- Smoking cessation and weight loss
+- Immunisations
 ## Pharmacological management (for adults >17yo)
-    - SABA PRN
-    - SABA + Low dose ICS as preventer if:
-        - Use an inhaled SABA three times a week or more, *and/or*
-        - Have asthma symptoms three times a week or more, *and/or*
-        - Are woken at night by asthma symptoms once weekly or more
-        - In addition, an ICS should be considered for adults and children over the age of 5 years who have had an asthma attack requiring treatment with oral corticosteroids in the past two years.
-    - SABA + Low dose ICS+ Leukotrione Receptor antagonist (LRTA)
-    - SABA + Low dose ICS + LABA +/- LRTA
-    - Low dose MART (Maintenance And Reliever Therapy) contains low dose ICS and short-acting LABA +/- LRTA
-    - Moderate dose MART +/- LRTA OR Fixed dose ICS + LABA +SABA
-    - High dose ICS as fixed regime or muscurinic receptor antagonists or Theophylline and consider specialist referral
+- SABA PRN
+- SABA + Low dose ICS as preventer if:
+    - Use an inhaled SABA three times a week or more, *and/or*
+    - Have asthma symptoms three times a week or more, *and/or*
+    - Are woken at night by asthma symptoms once weekly or more
+    - In addition, an ICS should be considered for adults and children over the age of 5 years who have had an asthma attack requiring treatment with oral corticosteroids in the past two years.
+- SABA + Low dose ICS+ Leukotrione Receptor antagonist (LRTA)
+- SABA + Low dose ICS + LABA +/- LRTA
+- Low dose MART (Maintenance And Reliever Therapy) contains low dose ICS and short-acting LABA +/- LRTA
+- Moderate dose MART +/- LRTA OR Fixed dose ICS + LABA +SABA
+- High dose ICS as fixed regime or muscurinic receptor antagonists or Theophylline and consider specialist referral
