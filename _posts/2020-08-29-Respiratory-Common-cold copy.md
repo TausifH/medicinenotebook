@@ -42,14 +42,13 @@ tags: [ GeneralPractice ]
     - Indirect challenges – e.g. exercise challenge
     - Sputum eosinophil count
 
-    # Management of asthma
-    ## Non-pharmacological management
+# Management of asthma
+## Non-pharmacological management
     - Self-management plan
     - Allergen avoidance
     - Smoking cessation and weight loss
     - Immunisations
-
-    ## Pharmacological management (for adults >17yo)
+## Pharmacological management (for adults >17yo)
     - SABA PRN
     - SABA + Low dose ICS as preventer if:
         - Use an inhaled SABA three times a week or more, *and/or*
