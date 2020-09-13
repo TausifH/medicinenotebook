@@ -2,7 +2,7 @@
 layout: post
 title:  "Diabetic Nephropathy"
 description: " Diabetic nephropathy is the commonest cause of chronic kidney disease and end-stage renal failure. Albuminuria is the first clinical sign of diabetic nephropathy. Pathophysiology of diabetic nephropathy. Diagnosis of diabetic nephropathy. Management of diabetic nephropathy "
-categories: [ Nephrology ] 
+categories: [ Renal Medicine ] 
 permalink: /diabetic-nephropathy
 
 ---
