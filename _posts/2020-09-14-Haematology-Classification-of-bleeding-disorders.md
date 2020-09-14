@@ -21,7 +21,7 @@ tags: [ ddx ]
 <figcaption class="figure-caption text-left">Classification of Bleeding Disorders<figcaption>
 
 
-## **Vascular defects**
+## Vascular defects
 1. *Congenital*
     - Osler-Weber-Rendu syndrome (aka Hereditary haemorrhagic telangiectasia)
     - Connective tissue disease (eg Ehlers-Danlos syndrome, pseudoxanthoma elasticum)
@@ -31,7 +31,7 @@ tags: [ ddx ]
     - Immune- Henoch-Schönlein purpura
     - Others- Senile purpura, scurvy (perifollicular haemorrhages)
 
-## **Platelet disorders**
+## Platelet disorders
 1. *Decreased marrow production*
   - **Aplastic anaemia**
   - Megaloblastic anaemia
@@ -45,7 +45,7 @@ tags: [ ddx ]
   - Nsaids
   - ↑Urea
 
-## **Coagulation disorders**
+## Coagulation disorders
 1. *Congenital*
   - Haemophilia
   - von Willebrand’s disease
