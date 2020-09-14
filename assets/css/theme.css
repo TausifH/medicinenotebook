@@ -34,7 +34,7 @@ a {
 	color:#03a87c;
 }
 a.text-dark:hover {
-	color:#03a87c !important;
+	color:#e91e63 !important;
 	border-bottom: solid 5px black
 }
 .c-pointer:hover {
