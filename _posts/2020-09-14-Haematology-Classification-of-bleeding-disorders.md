@@ -15,12 +15,9 @@ tags: [ ddx ]
 - The **pattern of bleeding** is important
     - Vascular and platelet disorders → ***prolonged bleeding*** from cuts, bleeding into the skin (eg easy bruising and purpura), and bleeding from mucous membranes (eg epistaxis, bleeding from gums, menorrhagia)
     - Coagulation disorder → ***delayed*** bleeding into joints and muscle
-![Classification of bleeding disorder]({{ site.baseurl }}/assets/images/haematology/Classification-of-bleeding-disorder.svg) 
-<figcaption class="figure-caption text-left">Classification of Bleeding Disorders<figcaption>
 
 # Bleeding classification
-
-
+![Classification of bleeding disorder]({{ site.baseurl }}/assets/images/haematology/Classification-of-bleeding-disorder.svg) 
 ## Vascular defects
 1. *Congenital*
     - Osler-Weber-Rendu syndrome (aka Hereditary haemorrhagic telangiectasia)
