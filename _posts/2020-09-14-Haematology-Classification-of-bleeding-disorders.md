@@ -17,7 +17,7 @@ tags: [ ddx ]
     - Coagulation disorder → ***delayed*** bleeding into joints and muscle
 
 # Bleeding classification
-    ![Classification of bleeding disorder]({{ site.baseurl }}/assets/images/haematology/Classification-of-bleeding-disorder.svg)
+![Classification of bleeding disorder]({{ site.baseurl }}/assets/images/haematology/Classification-of-bleeding-disorder.svg)
     <figcaption class="figure-caption text-left mb-2">Classification of bleeding disorders</figcaption>
 
 ## **Vascular defects**
