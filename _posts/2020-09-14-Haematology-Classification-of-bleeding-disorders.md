@@ -18,7 +18,7 @@ tags: [ ddx ]
 
 # Bleeding classification
 ![Classification of bleeding disorder]({{ site.baseurl }}/assets/images/haematology/Classification-of-bleeding-disorder.svg) 
-<figcaption class="figure-caption text-left">Classification of Bleeding Disorders<figcaption>
+<div><figcaption class="figure-caption text-left">Classification of Bleeding Disorders<figcaption></div>
 
 
 ## Vascular defects
