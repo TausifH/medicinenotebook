@@ -18,7 +18,8 @@ tags: [ ddx ]
 
 # Bleeding classification
 ![Classification of bleeding disorder]({{ site.baseurl }}/assets/images/haematology/Classification-of-bleeding-disorder.svg)
-    <figcaption class="figure-caption text-left mb-2">Classification of Bleeding Disorders<figcaption>
+
+<figcaption class="figure-caption text-left mb-2">Classification of Bleeding Disorders<figcaption>
 
 ## **Vascular defects**
 1. *Congenital*
