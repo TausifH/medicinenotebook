@@ -37,5 +37,4 @@ tags: [ radiology ]
 
 # Extra reading
 Detailed discussion on this topic can be found here
-
-[Radiopaedia-ischaemic stroke](https://radiopaedia.org/articles/ischaemic-stroke?lang=gb)
+[Radiopaedia-imaging in ischaemic stroke](https://radiopaedia.org/articles/ischaemic-stroke?lang=gb)
